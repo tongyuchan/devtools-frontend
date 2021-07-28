@@ -182,4 +182,3 @@ export const Type = {
     Info: 'info',
     Issue: 'issue',
 };
-//# sourceMappingURL=Infobar.js.map

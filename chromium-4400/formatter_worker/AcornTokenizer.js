@@ -173,4 +173,3 @@ export class AcornTokenizer {
     }
 }
 export const ECMA_VERSION = 2021;
-//# sourceMappingURL=AcornTokenizer.js.map

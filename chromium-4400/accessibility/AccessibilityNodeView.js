@@ -598,4 +598,3 @@ export class AXNodeIgnoredReasonTreeElement extends AXNodePropertyTreeElement {
         }
     }
 }
-//# sourceMappingURL=AccessibilityNodeView.js.map

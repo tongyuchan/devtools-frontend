@@ -7,4 +7,3 @@ import '../common/common-legacy.js';
 import '../text_utils/text_utils-legacy.js';
 import * as RuntimeInstantiator from './RuntimeInstantiator.js';
 export { RuntimeInstantiator, };
-//# sourceMappingURL=startup.js.map

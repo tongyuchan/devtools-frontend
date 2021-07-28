@@ -129,4 +129,3 @@ export const renderToken = (token) => {
     }
     return renderFn(token);
 };
-//# sourceMappingURL=MarkdownView.js.map

@@ -244,4 +244,3 @@ export class PlayerMessagesView extends UI.Widget.VBox {
         UI.UIUtils.createTextChild(container, message.message);
     }
 }
-//# sourceMappingURL=PlayerMessagesView.js.map

@@ -288,4 +288,3 @@ UI.ViewManager.registerLocationResolver({
         return Elements.ElementsPanel.ElementsPanel.instance();
     },
 });
-//# sourceMappingURL=elements-meta.js.map

@@ -38,4 +38,3 @@ export const SettingTypeObject = {
     ENUM: 'enum',
     BOOLEAN: 'boolean',
 };
-//# sourceMappingURL=SettingRegistration.js.map

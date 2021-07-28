@@ -11,4 +11,3 @@ export function assertNotNull(val) {
         throw new Error(`Expected given value to not be null but it was: ${val}`);
     }
 }
-//# sourceMappingURL=typescript-utilities.js.map

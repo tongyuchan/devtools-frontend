@@ -898,4 +898,3 @@ export const WaterfallSortIds = {
  */
 // @ts-ignore typedef
 export let Descriptor;
-//# sourceMappingURL=NetworkLogViewColumns.js.map

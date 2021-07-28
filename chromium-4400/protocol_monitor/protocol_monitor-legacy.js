@@ -17,4 +17,3 @@ ProtocolMonitor.ProtocolMonitor.InfoWidget = ProtocolMonitorModule.ProtocolMonit
  * @constructor
  */
 ProtocolMonitor.ProtocolMonitor.ProtocolNode = ProtocolMonitorModule.ProtocolMonitor.ProtocolNode;
-//# sourceMappingURL=protocol_monitor-legacy.js.map

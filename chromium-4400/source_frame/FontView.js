@@ -163,4 +163,3 @@ export class FontView extends UI.View.SimpleView {
 let _fontId = 0;
 const _fontPreviewLines = ['ABCDEFGHIJKLM', 'NOPQRSTUVWXYZ', 'abcdefghijklm', 'nopqrstuvwxyz', '1234567890'];
 const _measureFontSize = 50;
-//# sourceMappingURL=FontView.js.map

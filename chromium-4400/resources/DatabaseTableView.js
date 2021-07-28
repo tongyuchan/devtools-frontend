@@ -144,4 +144,3 @@ export class DatabaseTableView extends UI.View.SimpleView {
         this.update();
     }
 }
-//# sourceMappingURL=DatabaseTableView.js.map

@@ -356,4 +356,3 @@ export class Delegate {
     highlightedItemChanged(from, to, fromElement, toElement) {
     }
 }
-//# sourceMappingURL=SoftDropDown.js.map

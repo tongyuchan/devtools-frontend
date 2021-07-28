@@ -28,4 +28,3 @@ import * as SensorsView from './SensorsView.js';
 import * as StructuredHeaders from './StructuredHeaders.js';
 import * as UserAgentMetadata from './UserAgentMetadata.js';
 export { AdvancedApp, DeviceModeModel, DeviceModeToolbar, DeviceModeView, DeviceModeWrapper, DevicesSettingsTab, EmulatedDevices, InspectedPagePlaceholder, LocationsSettingsTab, MediaQueryInspector, SensorsView, StructuredHeaders, UserAgentMetadata, };
-//# sourceMappingURL=emulation.js.map

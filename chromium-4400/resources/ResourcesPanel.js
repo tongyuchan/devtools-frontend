@@ -243,4 +243,3 @@ export class CookieReferenceRevealer {
         return false;
     }
 }
-//# sourceMappingURL=ResourcesPanel.js.map

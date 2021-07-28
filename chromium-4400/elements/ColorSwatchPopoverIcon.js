@@ -451,4 +451,3 @@ export class FontEditorSectionManager {
     }
 }
 FontEditorSectionManager._treeElementSymbol = Symbol('FontEditorSectionManager._treeElementSymbol');
-//# sourceMappingURL=ColorSwatchPopoverIcon.js.map

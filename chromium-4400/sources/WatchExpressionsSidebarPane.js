@@ -536,4 +536,3 @@ WatchExpression._watchObjectGroupId = 'watch-group';
 WatchExpression.Events = {
     ExpressionUpdated: Symbol('ExpressionUpdated')
 };
-//# sourceMappingURL=WatchExpressionsSidebarPane.js.map

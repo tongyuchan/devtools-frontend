@@ -230,4 +230,3 @@ export class CSSAngle extends HTMLElement {
 if (!customElements.get('devtools-css-angle')) {
     customElements.define('devtools-css-angle', CSSAngle);
 }
-//# sourceMappingURL=CSSAngle.js.map

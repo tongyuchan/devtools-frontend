@@ -76,4 +76,3 @@ const MetricMode = {
     CumulativeCount: Symbol('CumulativeCount'),
 };
 SDKModel.register(PerformanceMetricsModel, Capability.DOM, false);
-//# sourceMappingURL=PerformanceMetricsModel.js.map

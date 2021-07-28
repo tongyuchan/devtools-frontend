@@ -45,4 +45,3 @@ export class AffectedSharedArrayBufferTransferDetailsView extends AffectedResour
         this.appendDetails(this.issue.sharedArrayBufferTransfersIssues());
     }
 }
-//# sourceMappingURL=AffectedSharedArrayBufferTransferDetailsView.js.map

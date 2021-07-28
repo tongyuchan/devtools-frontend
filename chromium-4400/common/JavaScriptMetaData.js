@@ -29,4 +29,3 @@ export class JavaScriptMetaData {
         throw new Error('not implemented');
     }
 }
-//# sourceMappingURL=JavaScriptMetaData.js.map

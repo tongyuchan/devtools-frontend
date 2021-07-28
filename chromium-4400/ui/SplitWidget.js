@@ -902,4 +902,3 @@ const MinPadding = 20;
 export let SettingForOrientation;
 /** @param {*} value */
 const suppressUnused = function (value) { };
-//# sourceMappingURL=SplitWidget.js.map

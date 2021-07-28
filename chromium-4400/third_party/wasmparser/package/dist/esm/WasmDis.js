@@ -1592,4 +1592,3 @@ export class DevToolsNameGenerator {
         return new DevToolsNameResolver(this._functionNames, this._functionLocalNames, this._typeNames, this._tableNames, this._memoryNames, this._globalNames);
     }
 }
-//# sourceMappingURL=WasmDis.js.map

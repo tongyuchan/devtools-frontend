@@ -93,4 +93,3 @@ export class PanelWithSidebar extends Panel {
         return this._panelSplitWidget;
     }
 }
-//# sourceMappingURL=Panel.js.map

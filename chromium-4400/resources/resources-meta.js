@@ -25,4 +25,3 @@ UI.ViewManager.registerViewExtension({
     },
     tags: [() => ls `pwa`],
 });
-//# sourceMappingURL=resources-meta.js.map

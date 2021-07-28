@@ -25,4 +25,3 @@ UI.ViewManager.registerViewExtension({
         return Security.SecurityPanel.SecurityPanel.instance();
     },
 });
-//# sourceMappingURL=security-meta.js.map

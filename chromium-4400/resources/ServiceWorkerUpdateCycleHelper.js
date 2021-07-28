@@ -174,4 +174,3 @@ export class ServiceWorkerUpdateCycleHelper {
         this.updateTimingTable(tableElement, timeRanges);
     }
 }
-//# sourceMappingURL=ServiceWorkerUpdateCycleHelper.js.map

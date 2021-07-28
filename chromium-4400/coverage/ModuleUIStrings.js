@@ -22,4 +22,3 @@ export const UIStrings = {
     startInstrumentingCoverageAnd: 'Start instrumenting coverage and reload page',
 };
 i18n.i18n.registerUIStrings('coverage/ModuleUIStrings.ts', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

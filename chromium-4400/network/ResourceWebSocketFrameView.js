@@ -328,4 +328,3 @@ export function ResourceWebSocketFrameNodeTimeComparator(a, b) {
 }
 /** @type {!WeakMap<!SDK.NetworkRequest.NetworkRequest, number>} */
 const _clearFrameOffsets = new WeakMap();
-//# sourceMappingURL=ResourceWebSocketFrameView.js.map

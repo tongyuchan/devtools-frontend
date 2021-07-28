@@ -496,4 +496,3 @@ export const ConnectionSetupRangeNames = new Set([
 /** @typedef {{name: !RequestTimeRangeNames, start: number, end: number}} */
 // @ts-ignore typedef
 export let RequestTimeRange;
-//# sourceMappingURL=RequestTimingView.js.map

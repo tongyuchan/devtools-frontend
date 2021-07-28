@@ -64,4 +64,3 @@ const onRevealAndFilter = (evt) => {
     NetworkPanel.NetworkPanel.revealAndFilter(evt.detail);
 };
 document.body.addEventListener('networkrevealandfilter', /** @type {!EventListener} */ (onRevealAndFilter));
-//# sourceMappingURL=network.js.map

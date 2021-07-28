@@ -1312,4 +1312,3 @@ export const EntryType = {
     ExtensionEvent: Symbol('ExtensionEvent'),
     Screenshot: Symbol('Screenshot'),
 };
-//# sourceMappingURL=TimelineFlameChartDataProvider.js.map

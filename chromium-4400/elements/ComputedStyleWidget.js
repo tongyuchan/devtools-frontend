@@ -554,4 +554,3 @@ export class ComputedStyleWidget extends UI.ThrottledWidget.ThrottledWidget {
 }
 const _maxLinkLength = 30;
 const _alwaysShownComputedProperties = new Set(['display', 'height', 'width']);
-//# sourceMappingURL=ComputedStyleWidget.js.map

@@ -2381,4 +2381,3 @@ export let InvalidationCause;
 /** @typedef {!{page: !Array<!SDK.TracingModel.Event>, workers: !Array<!SDK.TracingModel.Event>}} */
 // @ts-ignore typedef
 export let MetadataEvents;
-//# sourceMappingURL=TimelineModel.js.map

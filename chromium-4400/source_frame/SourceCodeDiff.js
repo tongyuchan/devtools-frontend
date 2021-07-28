@@ -137,4 +137,3 @@ export const EditType = {
     Delete: Symbol('Delete'),
     Modify: Symbol('Modify'),
 };
-//# sourceMappingURL=SourceCodeDiff.js.map

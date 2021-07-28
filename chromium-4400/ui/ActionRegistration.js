@@ -215,4 +215,3 @@ export const ActionCategory = {
     MEMORY: ls `Memory`,
     JAVASCRIPT_PROFILER: ls `JavaScript Profiler`,
 };
-//# sourceMappingURL=ActionRegistration.js.map

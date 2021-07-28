@@ -181,4 +181,3 @@ export function javaScriptOutline(content) {
         lastReportedOffset = textCursor.offset();
     }
 }
-//# sourceMappingURL=JavaScriptOutline.js.map

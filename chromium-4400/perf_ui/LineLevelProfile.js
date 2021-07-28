@@ -319,4 +319,3 @@ export class LineDecorator {
         return element;
     }
 }
-//# sourceMappingURL=LineLevelProfile.js.map

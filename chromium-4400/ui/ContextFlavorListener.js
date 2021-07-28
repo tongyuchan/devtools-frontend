@@ -11,4 +11,3 @@ export class ContextFlavorListener {
     flavorChanged(object) {
     }
 }
-//# sourceMappingURL=ContextFlavorListener.js.map

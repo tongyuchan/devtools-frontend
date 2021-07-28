@@ -553,4 +553,3 @@ export const ForwardedActions = new Set([
 ]);
 export const KeyTimeout = 1000;
 export const DefaultShortcutSetting = 'devToolsDefault';
-//# sourceMappingURL=ShortcutRegistry.js.map

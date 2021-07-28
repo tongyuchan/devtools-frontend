@@ -671,4 +671,3 @@ export let ConsoleAPICall;
 /** @typedef {{timestamp: number, details: !Protocol.Runtime.ExceptionDetails}} */
 // @ts-ignore typedef
 export let ExceptionWithTimestamp;
-//# sourceMappingURL=ConsoleModel.js.map

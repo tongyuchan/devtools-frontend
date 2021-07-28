@@ -11,4 +11,3 @@ export class App {
     presentUI(document) {
     }
 }
-//# sourceMappingURL=App.js.map

@@ -12,4 +12,3 @@ EventListeners.EventListenersView = EventListenersModule.EventListenersView.Even
 EventListeners.EventListenersTreeElement = EventListenersModule.EventListenersView.EventListenersTreeElement;
 /** @constructor */
 EventListeners.ObjectEventListenerBar = EventListenersModule.EventListenersView.ObjectEventListenerBar;
-//# sourceMappingURL=event_listeners-legacy.js.map

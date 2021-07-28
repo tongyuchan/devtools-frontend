@@ -129,4 +129,3 @@ export let NodeParamConnectionData;
  */
 // @ts-ignore Typedef
 export let NodeParamDisconnectionData;
-//# sourceMappingURL=GraphStyle.js.map

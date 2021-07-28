@@ -169,4 +169,3 @@ Common.Settings.registerSettingExtension({
     settingType: Common.Settings.SettingTypeObject.BOOLEAN,
     defaultValue: true,
 });
-//# sourceMappingURL=profiler-meta.js.map

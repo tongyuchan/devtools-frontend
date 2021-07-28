@@ -32,4 +32,3 @@ export function decode(input) {
     }
     return bytes.buffer;
 }
-//# sourceMappingURL=Base64.js.map

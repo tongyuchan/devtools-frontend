@@ -23,4 +23,3 @@ export class JsMainImpl extends Common.ObjectWrapper.ObjectWrapper {
         return Promise.resolve();
     }
 }
-//# sourceMappingURL=JsMain.js.map

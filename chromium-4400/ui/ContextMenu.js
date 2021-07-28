@@ -596,4 +596,3 @@ async function loadRegisteredProviders() {
 // @ts-ignore typedef
 export let ProviderRegistration;
 ContextMenu._groupWeights = _groupWeights;
-//# sourceMappingURL=ContextMenu.js.map

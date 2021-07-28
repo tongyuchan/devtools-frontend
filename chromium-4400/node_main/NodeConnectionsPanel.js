@@ -203,4 +203,3 @@ export class NodeConnectionsView extends UI.Widget.VBox {
         }
     }
 }
-//# sourceMappingURL=NodeConnectionsPanel.js.map

@@ -13,4 +13,3 @@ export const UIStrings = {
     documentation: 'Documentation',
 };
 i18n.i18n.registerUIStrings('settings/ModuleUIStrings.ts', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

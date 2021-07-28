@@ -220,4 +220,3 @@ Filters._durationFilterPresetsMs = [0, 1, 15];
 Filters.Events = {
     FilterChanged: Symbol('FilterChanged')
 };
-//# sourceMappingURL=EventsTimelineTreeView.js.map

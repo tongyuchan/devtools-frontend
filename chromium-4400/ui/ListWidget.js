@@ -418,4 +418,3 @@ export class Editor {
 /** @typedef {{valid: boolean, errorMessage: (string|undefined)}} */
 // @ts-ignore typedef
 export let ValidatorResult;
-//# sourceMappingURL=ListWidget.js.map

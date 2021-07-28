@@ -136,4 +136,3 @@ export class ScriptFormatterEditorAction {
         this._sourcesView.showSourceLocation(formatData.formattedSourceCode, start[0], start[1]);
     }
 }
-//# sourceMappingURL=ScriptFormatterEditorAction.js.map

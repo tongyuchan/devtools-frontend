@@ -110,4 +110,3 @@ export class Text {
 /** @typedef {{lineNumber: number, columnNumber: number}} */
 // @ts-ignore typedef
 export let Position;
-//# sourceMappingURL=Text.js.map

@@ -41,4 +41,3 @@ export const UIStrings = {
     disableOverrideNetworkRequests: 'Disable override network requests',
 };
 i18n.i18n.registerUIStrings('persistence/ModuleUIStrings.js', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

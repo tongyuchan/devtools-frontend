@@ -29,4 +29,3 @@ export class ForwardedInputEventHandler {
     }
 }
 new ForwardedInputEventHandler();
-//# sourceMappingURL=ForwardedInputEventHandler.js.map

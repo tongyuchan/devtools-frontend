@@ -303,4 +303,3 @@ export class OverlayModel {
     setShowViewportSizeOnResize(value) {
     }
 }
-//# sourceMappingURL=OverlayPersistentHighlighter.js.map

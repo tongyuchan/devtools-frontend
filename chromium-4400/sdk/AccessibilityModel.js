@@ -268,4 +268,3 @@ export class AccessibilityModel extends SDKModel {
     }
 }
 SDKModel.register(AccessibilityModel, Capability.DOM, false);
-//# sourceMappingURL=AccessibilityModel.js.map

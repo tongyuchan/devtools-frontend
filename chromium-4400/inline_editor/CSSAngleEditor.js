@@ -225,4 +225,3 @@ export class CSSAngleEditor extends HTMLElement {
 if (!customElements.get('devtools-css-angle-editor')) {
     customElements.define('devtools-css-angle-editor', CSSAngleEditor);
 }
-//# sourceMappingURL=CSSAngleEditor.js.map

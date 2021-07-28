@@ -175,4 +175,3 @@ export class ListModel extends Common.ObjectWrapper.ObjectWrapper {
 export const Events = {
     ItemsReplaced: Symbol('ItemsReplaced'),
 };
-//# sourceMappingURL=ListModel.js.map

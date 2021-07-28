@@ -1215,4 +1215,3 @@ export let _Callback;
 // @ts-ignore typedef
 export let _CallbackWithDebugInfo;
 export const inspectorBackend = new InspectorBackend();
-//# sourceMappingURL=InspectorBackend.js.map

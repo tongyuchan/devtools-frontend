@@ -32,4 +32,3 @@ UI.ViewManager.registerViewExtension({
         return Persistence.WorkspaceSettingsTab.WorkspaceSettingsTab.instance();
     },
 });
-//# sourceMappingURL=persistence-meta.js.map

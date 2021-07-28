@@ -219,4 +219,3 @@ class FormatterSourceMappingImpl {
         return convertedPosition;
     }
 }
-//# sourceMappingURL=ScriptFormatter.js.map

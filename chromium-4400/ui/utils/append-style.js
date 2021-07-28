@@ -31,4 +31,3 @@ export function appendStyle(node, cssFile, options = {
         }
     }
 }
-//# sourceMappingURL=append-style.js.map

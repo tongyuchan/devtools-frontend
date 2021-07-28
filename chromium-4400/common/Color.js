@@ -950,4 +950,3 @@ export class Generator {
     }
 }
 const _tmpHSLA = [0, 0, 0, 0];
-//# sourceMappingURL=Color.js.map

@@ -2195,4 +2195,3 @@ export function registerCommands(inspectorBackend) {
     // Schema.
     inspectorBackend.registerCommand('Schema.getDomains', [], ['domains']);
 }
-//# sourceMappingURL=InspectorBackendCommands.js.map

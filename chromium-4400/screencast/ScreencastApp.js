@@ -98,4 +98,3 @@ export class ScreencastAppProvider {
         return ScreencastApp._instance();
     }
 }
-//# sourceMappingURL=ScreencastApp.js.map

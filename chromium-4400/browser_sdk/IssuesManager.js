@@ -180,4 +180,3 @@ export const Events = {
     IssueAdded: Symbol('IssueAdded'),
     FullUpdateRequired: Symbol('FullUpdateRequired'),
 };
-//# sourceMappingURL=IssuesManager.js.map

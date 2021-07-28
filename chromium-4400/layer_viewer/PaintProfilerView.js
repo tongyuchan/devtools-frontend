@@ -493,4 +493,3 @@ export class PaintProfilerCategory {
         this.color = color;
     }
 }
-//# sourceMappingURL=PaintProfilerView.js.map

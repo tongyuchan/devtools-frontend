@@ -209,4 +209,3 @@ function renderRowWithCodeValue(key, value) {
   `;
 }
 customElements.define('devtools-trust-token-report', RequestTrustTokensReport);
-//# sourceMappingURL=RequestTrustTokensView.js.map

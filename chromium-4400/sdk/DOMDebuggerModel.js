@@ -907,4 +907,3 @@ export class DOMDebuggerManager {
     }
 }
 SDKModel.register(DOMDebuggerModel, Capability.DOM, false);
-//# sourceMappingURL=DOMDebuggerModel.js.map

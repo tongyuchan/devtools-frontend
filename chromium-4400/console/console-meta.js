@@ -36,4 +36,3 @@ UI.ViewManager.registerViewExtension({
         return Console.ConsolePanel.WrapperView.instance();
     },
 });
-//# sourceMappingURL=console-meta.js.map

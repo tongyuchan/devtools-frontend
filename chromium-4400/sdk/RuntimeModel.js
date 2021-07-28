@@ -826,4 +826,3 @@ export let EvaluationOptions;
  */
 // @ts-ignore typedef
 export let QueryObjectResult;
-//# sourceMappingURL=RuntimeModel.js.map

@@ -309,4 +309,3 @@ export class DiffUILocation {
     }
 }
 export const UpdateTimeout = 200;
-//# sourceMappingURL=WorkspaceDiff.js.map

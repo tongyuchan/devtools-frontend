@@ -37,4 +37,3 @@ export const UIStrings = {
     recordNetworkLog: 'Record network log',
 };
 i18n.i18n.registerUIStrings('browser_sdk/ModuleUIStrings.js', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

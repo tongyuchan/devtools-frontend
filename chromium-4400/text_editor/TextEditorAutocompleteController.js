@@ -564,4 +564,3 @@ export class TextEditorAutocompleteController {
     }
 }
 TextEditorAutocompleteController.HintBookmark = Symbol('hint');
-//# sourceMappingURL=TextEditorAutocompleteController.js.map

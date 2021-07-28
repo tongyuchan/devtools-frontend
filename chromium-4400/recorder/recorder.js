@@ -4,4 +4,3 @@
 import * as RecorderModel from './RecorderModel.js';
 import * as RecordingFileSystem from './RecordingFileSystem.js';
 export { RecorderModel, RecordingFileSystem };
-//# sourceMappingURL=recorder.js.map

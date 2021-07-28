@@ -143,4 +143,3 @@ export class ActionRegistry {
         return this._actionsById.get(actionId) || null;
     }
 }
-//# sourceMappingURL=ActionRegistry.js.map

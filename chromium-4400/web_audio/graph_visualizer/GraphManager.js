@@ -61,4 +61,3 @@ export class GraphManager extends Common.ObjectWrapper.ObjectWrapper {
         this.dispatchEventToListeners(ViewEvents.ShouldRedraw, graph);
     }
 }
-//# sourceMappingURL=GraphManager.js.map

@@ -1497,4 +1497,3 @@ export { getRegisteredSettings, registerSettingExtension, SettingCategoryObject,
   */
 // @ts-ignore typedef
 export let SimpleSettingOption;
-//# sourceMappingURL=Settings.js.map

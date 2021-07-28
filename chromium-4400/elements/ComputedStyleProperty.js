@@ -133,4 +133,3 @@ export class ComputedStyleProperty extends HTMLElement {
     }
 }
 customElements.define('devtools-computed-style-property', ComputedStyleProperty);
-//# sourceMappingURL=ComputedStyleProperty.js.map

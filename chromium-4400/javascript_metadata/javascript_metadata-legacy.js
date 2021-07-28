@@ -19,4 +19,3 @@ JavaScriptMetadata.NativeFunctions = JavaScriptMetadataModule.NativeFunctions.Na
  * }>}
  */
 JavaScriptMetadata.NativeFunctions;
-//# sourceMappingURL=javascript_metadata-legacy.js.map

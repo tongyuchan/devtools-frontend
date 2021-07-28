@@ -129,4 +129,3 @@ export class ValueInterpreterDisplay extends HTMLElement {
     }
 }
 customElements.define('devtools-linear-memory-inspector-interpreter-display', ValueInterpreterDisplay);
-//# sourceMappingURL=ValueInterpreterDisplay.js.map

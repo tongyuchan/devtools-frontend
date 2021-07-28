@@ -164,4 +164,3 @@ const BUTTONID_TO_ACTION_NAME = new Map([
     [4, Protocol.Input.MouseButton.Forward],
 ]);
 SDK.SDKModel.SDKModel.register(InputModel, SDK.SDKModel.Capability.Input, false);
-//# sourceMappingURL=InputModel.js.map

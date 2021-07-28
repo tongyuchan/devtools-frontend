@@ -74,4 +74,3 @@ export const Events = {
 };
 // TODO(jarhar): this is the only usage of Capability.None. Do something about it!
 SDKModel.register(SecurityOriginManager, Capability.None, false);
-//# sourceMappingURL=SecurityOriginManager.js.map

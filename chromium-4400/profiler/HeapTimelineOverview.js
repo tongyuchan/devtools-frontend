@@ -330,4 +330,3 @@ export class OverviewCalculator {
         return this._maximumBoundaries - this._minimumBoundaries;
     }
 }
-//# sourceMappingURL=HeapTimelineOverview.js.map

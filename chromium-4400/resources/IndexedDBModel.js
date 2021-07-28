@@ -565,4 +565,3 @@ export class Index {
  */
 // @ts-ignore typedef
 export let ObjectStoreMetadata;
-//# sourceMappingURL=IndexedDBModel.js.map

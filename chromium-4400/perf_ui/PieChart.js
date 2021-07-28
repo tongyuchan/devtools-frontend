@@ -292,4 +292,3 @@ export class PieChart extends HTMLElement {
 if (!customElements.get('devtools-perf-piechart')) {
     customElements.define('devtools-perf-piechart', PieChart);
 }
-//# sourceMappingURL=PieChart.js.map

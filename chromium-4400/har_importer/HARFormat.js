@@ -364,4 +364,3 @@ class HARWebSocketMessage extends HARBase {
         this.type = HARBase._optionalString(data['type']);
     }
 }
-//# sourceMappingURL=HARFormat.js.map

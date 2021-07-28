@@ -24,4 +24,3 @@ import * as UIDevtoolsController from './UIDevtoolsController.js';
 import * as UIDevtoolsUtils from './UIDevtoolsUtils.js';
 import * as WebVitalsTimeline from './WebVitalsTimeline.js';
 export { CLSLinkifier, CountersGraph, EventsTimelineTreeView, ExtensionTracingSession, PerformanceModel, TimelineController, TimelineDetailsView, TimelineEventOverview, TimelineFilters, TimelineFlameChartDataProvider, TimelineFlameChartNetworkDataProvider, TimelineFlameChartView, TimelineHistoryManager, TimelineLayersView, TimelineLoader, TimelinePaintProfilerView, TimelinePanel, TimelineTreeView, TimelineUIUtils, UIDevtoolsController, UIDevtoolsUtils, WebVitalsTimeline, };
-//# sourceMappingURL=timeline.js.map

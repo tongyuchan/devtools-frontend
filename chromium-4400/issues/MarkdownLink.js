@@ -42,4 +42,3 @@ export class MarkdownLink extends HTMLElement {
     }
 }
 customElements.define('devtools-markdown-link', MarkdownLink);
-//# sourceMappingURL=MarkdownLink.js.map

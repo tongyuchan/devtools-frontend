@@ -7,4 +7,3 @@ self.ConsoleCounters = self.ConsoleCounters || {};
 ConsoleCounters = ConsoleCounters || {};
 /** @constructor */
 ConsoleCounters.WarningErrorCounter = ConsoleCountersModule.WarningErrorCounter.WarningErrorCounter;
-//# sourceMappingURL=console_counters-legacy.js.map

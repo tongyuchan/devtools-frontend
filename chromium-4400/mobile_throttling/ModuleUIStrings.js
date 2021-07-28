@@ -34,4 +34,3 @@ export const UIStrings = {
     goOnline: 'Go online',
 };
 i18n.i18n.registerUIStrings('mobile_throttling/ModuleUIStrings.ts', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

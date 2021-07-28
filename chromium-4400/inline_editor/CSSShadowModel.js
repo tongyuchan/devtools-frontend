@@ -322,4 +322,3 @@ CSSLength.Regex = (function () {
     const zero = '[+-]?(?:0*[.])?0+(?:[eE][+-]?[0-9]+)?';
     return new RegExp(number + unit + '|' + zero, 'gi');
 })();
-//# sourceMappingURL=CSSShadowModel.js.map

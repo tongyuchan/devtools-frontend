@@ -136,4 +136,3 @@ export class Frame {
         return /** @type {!Promise<?string>} */ (this._snapshot.objectPromise());
     }
 }
-//# sourceMappingURL=FilmStripModel.js.map

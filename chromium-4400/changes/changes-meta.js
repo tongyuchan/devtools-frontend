@@ -24,4 +24,3 @@ UI.ViewManager.registerViewExtension({
         return Changes.ChangesView.ChangesView.instance();
     },
 });
-//# sourceMappingURL=changes-meta.js.map

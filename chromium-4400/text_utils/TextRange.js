@@ -317,4 +317,3 @@ export class SourceEdit {
         return TextRange.fromEdit(this.oldRange, this.newText);
     }
 }
-//# sourceMappingURL=TextRange.js.map

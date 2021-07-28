@@ -164,4 +164,3 @@ export class Issue extends Common.ObjectWrapper.ObjectWrapper {
         return false;
     }
 }
-//# sourceMappingURL=Issue.js.map

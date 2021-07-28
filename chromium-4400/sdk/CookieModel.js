@@ -142,4 +142,3 @@ SDKModel.register(CookieModel, Capability.Network, false);
 /** @typedef {!{uiString: string, attribute: ?Attributes}} */
 // @ts-ignore typedef
 export let BlockedReason;
-//# sourceMappingURL=CookieModel.js.map

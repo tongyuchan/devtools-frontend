@@ -81,4 +81,3 @@ export class CoveragePlugin extends Plugin {
         return [this._text];
     }
 }
-//# sourceMappingURL=CoveragePlugin.js.map

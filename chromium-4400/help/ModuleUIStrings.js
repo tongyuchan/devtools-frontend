@@ -34,4 +34,3 @@ export const UIStrings = {
     bug: 'bug',
 };
 i18n.i18n.registerUIStrings('help/ModuleUIStrings.ts', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

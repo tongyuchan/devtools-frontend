@@ -13,4 +13,3 @@ Media.MainView = MediaModule.MainView.MainView;
  * @constructor
  */
 Media.MediaModel = MediaModule.MediaModel.MediaModel;
-//# sourceMappingURL=media-legacy.js.map

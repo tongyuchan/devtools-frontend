@@ -190,4 +190,3 @@ export class SettingUI {
         throw new Error('not implemented');
     }
 }
-//# sourceMappingURL=SettingsUI.js.map

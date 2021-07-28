@@ -213,4 +213,3 @@ export class LinearMemoryInspector extends HTMLElement {
     }
 }
 customElements.define('devtools-linear-memory-inspector-inspector', LinearMemoryInspector);
-//# sourceMappingURL=LinearMemoryInspector.js.map

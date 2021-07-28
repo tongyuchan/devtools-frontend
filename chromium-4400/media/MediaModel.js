@@ -37,4 +37,3 @@ export class MediaModel extends SDK.SDKModel.SDKModel {
     }
 }
 SDK.SDKModel.SDKModel.register(MediaModel, SDK.SDKModel.Capability.DOM, false);
-//# sourceMappingURL=MediaModel.js.map

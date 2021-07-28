@@ -233,4 +233,3 @@ export class ProgressProxy {
         }
     }
 }
-//# sourceMappingURL=Progress.js.map

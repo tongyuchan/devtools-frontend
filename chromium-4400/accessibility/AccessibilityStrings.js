@@ -177,4 +177,3 @@ export const AXNativeSourceTypes = {
     'title': { name: ls `From title`, description: ls `Value from title attribute.` },
     'other': { name: ls `From native HTML`, description: ls `Value from native HTML (unknown source).` },
 };
-//# sourceMappingURL=AccessibilityStrings.js.map

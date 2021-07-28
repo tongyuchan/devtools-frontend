@@ -698,4 +698,3 @@ function getAttributesForElementTitle(node) {
     }
     return selector;
 }
-//# sourceMappingURL=ScreencastView.js.map

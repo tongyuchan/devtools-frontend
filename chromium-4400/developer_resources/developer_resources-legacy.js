@@ -9,4 +9,3 @@ DeveloperResources = DeveloperResources || {};
  * @constructor
  */
 DeveloperResources.DeveloperResourcesView = DeveloperResourcesModule.DeveloperResourcesView.DeveloperResourcesView;
-//# sourceMappingURL=developer_resources-legacy.js.map

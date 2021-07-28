@@ -280,4 +280,3 @@ export class LocationsSettingsTab extends UI.Widget.VBox {
 /** @typedef {{title: string, lat: number, long: number, timezoneId: string, locale: string}} */
 // @ts-ignore typedef
 export let Item;
-//# sourceMappingURL=LocationsSettingsTab.js.map

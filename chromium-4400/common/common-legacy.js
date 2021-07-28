@@ -104,4 +104,3 @@ Common.settings;
  * @return {string}
  */
 self.ls = CommonModule.UIString.ls;
-//# sourceMappingURL=common-legacy.js.map

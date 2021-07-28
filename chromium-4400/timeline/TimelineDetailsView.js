@@ -291,4 +291,3 @@ export const Tab = {
     PaintProfiler: 'PaintProfiler',
     LayerViewer: 'LayerViewer'
 };
-//# sourceMappingURL=TimelineDetailsView.js.map

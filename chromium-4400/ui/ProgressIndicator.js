@@ -106,4 +106,3 @@ export class ProgressIndicator {
         this.setWorked(this._worked + (worked || 1));
     }
 }
-//# sourceMappingURL=ProgressIndicator.js.map

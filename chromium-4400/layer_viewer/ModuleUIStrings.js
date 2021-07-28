@@ -46,4 +46,3 @@ export const UIStrings = {
     panOrRotateRight: 'Pan or rotate right',
 };
 i18n.i18n.registerUIStrings('layer_viewer/ModuleUIStrings.ts', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

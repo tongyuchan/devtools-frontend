@@ -30,4 +30,3 @@ export const UIStrings = {
     resume: 'Resume',
 };
 i18n.i18n.registerUIStrings('input/ModuleUIStrings.ts', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

@@ -212,4 +212,3 @@ export class WebVitalsTimeline extends HTMLElement {
     }
 }
 customElements.define('devtools-timeline-webvitals', WebVitalsTimeline);
-//# sourceMappingURL=WebVitalsTimeline.js.map

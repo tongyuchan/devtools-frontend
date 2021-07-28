@@ -678,4 +678,3 @@ export class DeviceModeToolbar {
         this._model.emulate(Type.Responsive, null, null);
     }
 }
-//# sourceMappingURL=DeviceModeToolbar.js.map

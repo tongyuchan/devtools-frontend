@@ -80,4 +80,3 @@ export function networkPriorityWeight(priority) {
     }
     return networkPriorityWeights.get(priority) || 0;
 }
-//# sourceMappingURL=NetworkPriorities.js.map

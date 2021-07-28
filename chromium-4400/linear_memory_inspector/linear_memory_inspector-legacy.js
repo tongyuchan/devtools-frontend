@@ -9,4 +9,3 @@ LinearMemoryInspector.LinearMemoryInspectorPane =
     LinearMemoryInspectorModule.LinearMemoryInspectorPane.LinearMemoryInspectorPaneImpl;
 /** @constructor */
 LinearMemoryInspector.LinearMemoryInspectorPane.Wrapper = LinearMemoryInspectorModule.LinearMemoryInspectorPane.Wrapper;
-//# sourceMappingURL=linear_memory_inspector-legacy.js.map

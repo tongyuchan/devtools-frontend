@@ -50,4 +50,3 @@ UI.ViewManager.registerViewExtension({
         return Profiler.ProfilesPanel.JSProfilerPanel.instance();
     },
 });
-//# sourceMappingURL=timeline-meta.js.map

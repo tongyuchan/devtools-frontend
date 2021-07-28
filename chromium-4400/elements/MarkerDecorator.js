@@ -34,4 +34,3 @@ export class GenericDecorator {
         return { title: this._title, color: this._color };
     }
 }
-//# sourceMappingURL=MarkerDecorator.js.map

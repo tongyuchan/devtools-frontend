@@ -290,4 +290,3 @@ export class Calculator {
 /** @typedef {!{offsets: !Array<!{position: number, time: number}>, precision: number}} */
 // @ts-ignore Typedef.
 export let DividersData;
-//# sourceMappingURL=TimelineGrid.js.map

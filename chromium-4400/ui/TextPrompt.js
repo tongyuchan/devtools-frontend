@@ -781,4 +781,3 @@ const DefaultAutocompletionTimeout = 250;
 export const Events = {
     TextChanged: Symbol('TextChanged')
 };
-//# sourceMappingURL=TextPrompt.js.map

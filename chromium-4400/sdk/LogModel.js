@@ -45,4 +45,3 @@ export const Events = {
     EntryAdded: Symbol('EntryAdded')
 };
 SDKModel.register(LogModel, Capability.Log, true);
-//# sourceMappingURL=LogModel.js.map

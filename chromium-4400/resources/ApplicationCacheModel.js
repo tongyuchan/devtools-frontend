@@ -214,4 +214,3 @@ export const CHECKING = 2;
 export const DOWNLOADING = 3;
 export const UPDATEREADY = 4;
 export const OBSOLETE = 5;
-//# sourceMappingURL=ApplicationCacheModel.js.map

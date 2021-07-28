@@ -327,4 +327,3 @@ export class Cache {
     }
 }
 SDKModel.register(ServiceWorkerCacheModel, Capability.Storage, false);
-//# sourceMappingURL=ServiceWorkerCacheModel.js.map

@@ -136,4 +136,3 @@ export class SwatchPopoverHelper extends Common.ObjectWrapper.ObjectWrapper {
 export const Events = {
     WillShowPopover: Symbol('WillShowPopover'),
 };
-//# sourceMappingURL=SwatchPopoverHelper.js.map

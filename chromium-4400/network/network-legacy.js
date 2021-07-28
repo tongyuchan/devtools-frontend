@@ -119,4 +119,3 @@ Network.ResourceWebSocketFrameNode = NetworkModule.ResourceWebSocketFrameView.Re
  * @constructor
  */
 Network.SignedExchangeInfoView = NetworkModule.SignedExchangeInfoView.SignedExchangeInfoView;
-//# sourceMappingURL=network-legacy.js.map

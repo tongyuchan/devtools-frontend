@@ -568,4 +568,3 @@ TextSourceMap.SourceInfo = class {
         this.reverseMappings = reverseMappings;
     }
 };
-//# sourceMappingURL=SourceMap.js.map

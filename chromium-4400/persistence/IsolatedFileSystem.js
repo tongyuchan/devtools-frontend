@@ -735,4 +735,3 @@ export const BinaryExtensions = new Set([
     // Image file extensions
     'jpeg', 'jpg', 'gif', 'webp', 'png', 'ico', 'tiff', 'tif', 'bmp'
 ]);
-//# sourceMappingURL=IsolatedFileSystem.js.map

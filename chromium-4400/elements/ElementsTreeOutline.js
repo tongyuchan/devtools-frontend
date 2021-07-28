@@ -1670,4 +1670,3 @@ export let MultilineEditorController;
 /** @typedef {{node: !SDK.DOMModel.DOMNode, isCut: boolean}} */
 // @ts-ignore typedef
 export let ClipboardData;
-//# sourceMappingURL=ElementsTreeOutline.js.map

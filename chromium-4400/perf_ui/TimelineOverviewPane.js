@@ -510,4 +510,3 @@ export class OverviewInfo {
         this._glassPane.hide();
     }
 }
-//# sourceMappingURL=TimelineOverviewPane.js.map

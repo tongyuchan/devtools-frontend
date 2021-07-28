@@ -197,4 +197,3 @@ Sources.UISourceCodeFrame.Events = SourcesModule.UISourceCodeFrame.Events;
 Sources.WatchExpressionsSidebarPane = SourcesModule.WatchExpressionsSidebarPane.WatchExpressionsSidebarPane;
 /** @constructor */
 Sources.WatchExpression = SourcesModule.WatchExpressionsSidebarPane.WatchExpression;
-//# sourceMappingURL=sources-legacy.js.map

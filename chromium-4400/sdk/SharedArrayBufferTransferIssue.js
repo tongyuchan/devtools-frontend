@@ -32,4 +32,3 @@ export class SharedArrayBufferTransferIssue extends Issue {
         return JSON.stringify(this.issueDetails);
     }
 }
-//# sourceMappingURL=SharedArrayBufferTransferIssue.js.map

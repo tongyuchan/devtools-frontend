@@ -610,4 +610,3 @@ export class SDKModelObserver {
     modelRemoved(model) {
     }
 }
-//# sourceMappingURL=SDKModel.js.map

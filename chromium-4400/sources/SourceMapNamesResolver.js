@@ -465,4 +465,3 @@ export const getScopeResolvedForTest = () => {
 export const setScopeResolvedForTest = scope => {
     _scopeResolvedForTest = scope;
 };
-//# sourceMappingURL=SourceMapNamesResolver.js.map

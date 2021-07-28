@@ -525,4 +525,3 @@ export class MetricIndicator {
     }
 }
 export const format = new Intl.NumberFormat('en-US', { maximumFractionDigits: 1 });
-//# sourceMappingURL=PerformanceMonitor.js.map

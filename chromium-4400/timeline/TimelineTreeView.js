@@ -1044,4 +1044,3 @@ export class TimelineStackView extends UI.Widget.VBox {
 TimelineStackView.Events = {
     SelectionChanged: Symbol('SelectionChanged')
 };
-//# sourceMappingURL=TimelineTreeView.js.map

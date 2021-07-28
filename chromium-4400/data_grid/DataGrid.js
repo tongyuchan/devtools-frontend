@@ -2391,4 +2391,3 @@ export let Parameters;
  */
 // @ts-ignore typedef
 export let ColumnDescriptor;
-//# sourceMappingURL=DataGrid.js.map

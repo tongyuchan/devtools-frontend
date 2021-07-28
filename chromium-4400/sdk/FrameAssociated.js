@@ -4,4 +4,3 @@
 /** @typedef {{createPageResourceLoadInitiator: function(): !PageResourceLoadInitiator}} */
 // @ts-ignore typedef
 export let FrameAssociated;
-//# sourceMappingURL=FrameAssociated.js.map

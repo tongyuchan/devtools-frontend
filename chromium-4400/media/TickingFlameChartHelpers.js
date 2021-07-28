@@ -106,4 +106,3 @@ export class Bounds {
         return false;
     }
 }
-//# sourceMappingURL=TickingFlameChartHelpers.js.map

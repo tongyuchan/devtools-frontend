@@ -522,4 +522,3 @@ export class CheckboxFilterUI extends Common.ObjectWrapper.ObjectWrapper {
 /** @typedef {{name: string, label: string, title: (string|undefined)}} */
 // @ts-ignore typedef
 export let Item;
-//# sourceMappingURL=FilterBar.js.map

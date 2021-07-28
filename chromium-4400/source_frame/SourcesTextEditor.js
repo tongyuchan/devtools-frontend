@@ -1023,4 +1023,3 @@ export const lineNumbersGutterType = 'CodeMirror-linenumbers';
 /** @typedef {{gutterType: string, lineNumber: number, event: !MouseEvent}} */
 // @ts-ignore typedef
 export let GutterClickEventData;
-//# sourceMappingURL=SourcesTextEditor.js.map

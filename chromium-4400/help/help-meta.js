@@ -33,4 +33,3 @@ UI.ViewManager.registerViewExtension({
         return Help.ReleaseNoteView.ReleaseNoteView.instance();
     },
 });
-//# sourceMappingURL=help-meta.js.map

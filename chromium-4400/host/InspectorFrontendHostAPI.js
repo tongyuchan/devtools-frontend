@@ -394,4 +394,3 @@ export const EnumeratedHistogram = {
     DeveloperResourceLoaded: 'DevTools.DeveloperResourceLoaded',
     DeveloperResourceScheme: 'DevTools.DeveloperResourceScheme',
 };
-//# sourceMappingURL=InspectorFrontendHostAPI.js.map

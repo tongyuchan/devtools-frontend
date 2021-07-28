@@ -100,4 +100,3 @@ export class Attribute {
         return this._enum;
     }
 }
-//# sourceMappingURL=ARIAMetadata.js.map

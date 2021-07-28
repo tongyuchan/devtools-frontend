@@ -101,4 +101,3 @@ export class InputModel extends SDK.SDKModel.SDKModel {
     }
 }
 SDK.SDKModel.SDKModel.register(InputModel, SDK.SDKModel.Capability.Input, false);
-//# sourceMappingURL=InputModel.js.map

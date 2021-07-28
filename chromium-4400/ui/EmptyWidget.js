@@ -62,4 +62,3 @@ export class EmptyWidget extends VBox {
         this._textElement.textContent = text;
     }
 }
-//# sourceMappingURL=EmptyWidget.js.map

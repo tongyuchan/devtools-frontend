@@ -392,4 +392,3 @@ export const Events = {
     RequestLighthouseStart: Symbol('RequestLighthouseStart'),
     RequestLighthouseCancel: Symbol('RequestLighthouseCancel'),
 };
-//# sourceMappingURL=LighthouseController.js.map

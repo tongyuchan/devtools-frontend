@@ -1548,4 +1548,3 @@ export let RequestInterceptor;
 /** @typedef {!{url: string, frameId: string, loaderId: string, resourceType: Protocol.Network.ResourceType, mimeType: string, lastModified: ?Date}} */
 // @ts-ignore typedef
 export let RequestUpdateDroppedEventData;
-//# sourceMappingURL=NetworkManager.js.map

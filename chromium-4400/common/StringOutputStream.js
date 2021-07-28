@@ -45,4 +45,3 @@ export class StringOutputStream {
         return this._data;
     }
 }
-//# sourceMappingURL=StringOutputStream.js.map

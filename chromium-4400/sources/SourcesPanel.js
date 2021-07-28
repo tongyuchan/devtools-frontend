@@ -1203,4 +1203,3 @@ export class WrapperView extends UI.Widget.VBox {
         this._view.show(this.element);
     }
 }
-//# sourceMappingURL=SourcesPanel.js.map

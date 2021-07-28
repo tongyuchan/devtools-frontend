@@ -267,4 +267,3 @@ export class ContextMenuProvider {
         GutterDiffPlugin._appendRevealDiffContextMenu(contextMenu, uiSourceCode);
     }
 }
-//# sourceMappingURL=GutterDiffPlugin.js.map

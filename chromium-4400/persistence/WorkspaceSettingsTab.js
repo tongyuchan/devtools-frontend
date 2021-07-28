@@ -180,4 +180,3 @@ export class WorkspaceSettingsTab extends UI.Widget.VBox {
         }
     }
 }
-//# sourceMappingURL=WorkspaceSettingsTab.js.map

@@ -255,4 +255,3 @@ export let _Bind;
   */
 // @ts-ignore typedef
 export let _Template;
-//# sourceMappingURL=Fragment.js.map

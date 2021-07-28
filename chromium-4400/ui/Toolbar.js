@@ -1063,4 +1063,3 @@ export class ToolbarSettingCheckbox extends ToolbarCheckbox {
         bindCheckbox(this.inputElement, setting);
     }
 }
-//# sourceMappingURL=Toolbar.js.map

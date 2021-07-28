@@ -713,4 +713,3 @@ export class WidgetFocusRestorer {
 function parentWidgetElementOrShadowHost(element) {
     return /** @type {?WidgetElement} */ (element.parentElementOrShadowHost());
 }
-//# sourceMappingURL=Widget.js.map

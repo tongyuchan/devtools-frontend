@@ -890,4 +890,3 @@ function messageLevelComparator(a, b) {
 export const Events = {
     ToolbarItemsChanged: Symbol('ToolbarItemsChanged')
 };
-//# sourceMappingURL=UISourceCodeFrame.js.map

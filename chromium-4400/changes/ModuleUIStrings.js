@@ -10,4 +10,3 @@ export const UIStrings = {
     changesDrawer: 'Changes drawer',
 };
 i18n.i18n.registerUIStrings('changes/ModuleUIStrings.ts', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

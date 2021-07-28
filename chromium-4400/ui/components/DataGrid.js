@@ -692,4 +692,3 @@ export class DataGrid extends HTMLElement {
     }
 }
 customElements.define('devtools-data-grid', DataGrid);
-//# sourceMappingURL=DataGrid.js.map

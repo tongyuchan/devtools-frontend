@@ -32,4 +32,3 @@ UI.ViewManager.registerViewExtension({
         return Profiler.ProfilesPanel.JSProfilerPanel.instance();
     },
 });
-//# sourceMappingURL=js_profiler-meta.js.map

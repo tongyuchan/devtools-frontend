@@ -961,4 +961,3 @@ class _StackLocation extends _Location {
 // @ts-ignore typedef
 export let ViewRegistry;
 export { getRegisteredViewExtensions, registerViewExtension, getRegisteredLocationResolvers, registerLocationResolver, ViewLocationCategoryValues };
-//# sourceMappingURL=ViewManager.js.map

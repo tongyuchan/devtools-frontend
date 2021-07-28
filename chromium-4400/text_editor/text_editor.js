@@ -6,4 +6,3 @@ import * as CodeMirrorTextEditor from './CodeMirrorTextEditor.js';
 import * as CodeMirrorUtils from './CodeMirrorUtils.js';
 import * as TextEditorAutocompleteController from './TextEditorAutocompleteController.js';
 export { CodeMirrorTextEditor, CodeMirrorUtils, TextEditorAutocompleteController, };
-//# sourceMappingURL=text_editor.js.map

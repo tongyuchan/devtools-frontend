@@ -500,4 +500,3 @@ export class IDBDataGridNode extends DataGrid.DataGrid.DataGridNode {
         return cell;
     }
 }
-//# sourceMappingURL=IndexedDBViews.js.map

@@ -10,4 +10,3 @@ Services.ServiceManager = ServicesModule.ServiceManager.ServiceManager;
 /** @constructor */
 Services.ServiceManager.Service = ServicesModule.ServiceManager.Service;
 Services.serviceManager = ServicesModule.serviceManager;
-//# sourceMappingURL=services-legacy.js.map

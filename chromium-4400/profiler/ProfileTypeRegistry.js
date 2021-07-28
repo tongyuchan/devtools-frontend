@@ -13,4 +13,3 @@ export class ProfileTypeRegistry {
     }
 }
 export const instance = new ProfileTypeRegistry();
-//# sourceMappingURL=ProfileTypeRegistry.js.map

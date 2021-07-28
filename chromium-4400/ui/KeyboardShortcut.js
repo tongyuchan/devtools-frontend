@@ -395,4 +395,3 @@ export let Key;
 /** @typedef {!{key: number, name: string}} */
 // @ts-ignore typedef
 export let Descriptor;
-//# sourceMappingURL=KeyboardShortcut.js.map

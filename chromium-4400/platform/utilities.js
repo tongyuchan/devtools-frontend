@@ -95,4 +95,3 @@ self.base64ToSize = function (content) {
     }
     return size;
 };
-//# sourceMappingURL=utilities.js.map

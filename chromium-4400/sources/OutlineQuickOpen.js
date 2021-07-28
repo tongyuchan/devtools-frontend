@@ -117,4 +117,3 @@ export class OutlineQuickOpen extends QuickOpen.FilteredListWidget.Provider {
         return Common.UIString.UIString('No results found');
     }
 }
-//# sourceMappingURL=OutlineQuickOpen.js.map

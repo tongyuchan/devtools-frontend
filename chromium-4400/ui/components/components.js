@@ -12,4 +12,3 @@ import * as Linkifier from './Linkifier.js';
 import * as ReportView from './ReportView.js';
 import * as SurveyLink from './SurveyLink.js';
 export { CounterButton, DataGrid, DataGridController, DataGridControllerIntegrator, DataGridRenderers, DataGridUtils, Icon, Linkifier, ReportView, SurveyLink, };
-//# sourceMappingURL=components.js.map

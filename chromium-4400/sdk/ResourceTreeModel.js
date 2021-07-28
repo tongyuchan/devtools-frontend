@@ -1066,4 +1066,3 @@ SDKModel.register(ResourceTreeModel, Capability.DOM, true);
   */
 // @ts-ignore typedef
 export let SecurityOriginData;
-//# sourceMappingURL=ResourceTreeModel.js.map

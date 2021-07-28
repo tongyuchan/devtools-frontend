@@ -1825,4 +1825,3 @@ export class BreakpointDecoration {
 BreakpointDecoration.bookmarkSymbol = Symbol('bookmark');
 BreakpointDecoration._elementSymbolForTest = Symbol('element');
 export const continueToLocationDecorationSymbol = Symbol('bookmark');
-//# sourceMappingURL=DebuggerPlugin.js.map

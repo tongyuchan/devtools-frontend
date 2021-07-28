@@ -25,4 +25,3 @@ UI.ViewManager.registerViewExtension({
         return Coverage.CoverageView.CoverageView.instance();
     },
 });
-//# sourceMappingURL=coverage-meta.js.map

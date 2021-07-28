@@ -334,4 +334,3 @@ TimelineJSProfileProcessor.NativeGroups = {
     'Compile': 'Compile',
     'Parse': 'Parse'
 };
-//# sourceMappingURL=TimelineJSProfile.js.map

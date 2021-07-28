@@ -56,4 +56,3 @@ export class TracingSession {
     complete(url, timeOffsetMicroseconds) {
     }
 }
-//# sourceMappingURL=ExtensionTraceProvider.js.map

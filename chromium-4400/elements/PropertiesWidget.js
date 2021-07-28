@@ -168,4 +168,3 @@ export class PropertiesWidget extends UI.ThrottledWidget.ThrottledWidget {
     }
 }
 export const _objectGroupName = 'properties-sidebar-pane';
-//# sourceMappingURL=PropertiesWidget.js.map

@@ -106,4 +106,3 @@ export class ProtocolService extends Common.ObjectWrapper.ObjectWrapper {
         return this._backend.send(method, params);
     }
 }
-//# sourceMappingURL=LighthouseProtocolService.js.map

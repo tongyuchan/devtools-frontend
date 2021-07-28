@@ -45,4 +45,3 @@ export class SnippetsQuickOpen extends QuickOpen.FilteredListWidget.Provider {
         QuickOpen.FilteredListWidget.FilteredListWidget.highlightRanges(titleElement, query, true);
     }
 }
-//# sourceMappingURL=SnippetsQuickOpen.js.map

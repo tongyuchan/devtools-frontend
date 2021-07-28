@@ -13,4 +13,3 @@ HARImporter.HARRoot = HARImporterModule.HARFormat.HARRoot;
  * @constructor
  */
 HARImporter.Importer = HARImporterModule.HARImporter.Importer;
-//# sourceMappingURL=har_importer-legacy.js.map

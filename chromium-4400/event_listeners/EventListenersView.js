@@ -320,4 +320,3 @@ export class ObjectEventListenerBar extends UI.TreeOutline.TreeElement {
         return false;
     }
 }
-//# sourceMappingURL=EventListenersView.js.map

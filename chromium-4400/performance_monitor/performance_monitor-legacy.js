@@ -21,4 +21,3 @@ PerformanceMonitor.PerformanceMonitor.ControlPane.Events = PerformanceMonitorMod
  */
 PerformanceMonitor.PerformanceMonitor.MetricIndicator = PerformanceMonitorModule.PerformanceMonitor.MetricIndicator;
 PerformanceMonitor.PerformanceMonitor.MetricIndicator._format = PerformanceMonitorModule.PerformanceMonitor.format;
-//# sourceMappingURL=performance_monitor-legacy.js.map

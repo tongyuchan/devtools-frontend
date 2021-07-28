@@ -256,4 +256,3 @@ export let Controller; // eslint-disable-line no-unused-vars
  */
 // @ts-ignore typedef.
 export let EditingContext; // eslint-disable-line no-unused-vars
-//# sourceMappingURL=InplaceEditor.js.map

@@ -112,4 +112,3 @@ export class FileManager extends Common.ObjectWrapper.ObjectWrapper {
 export const Events = {
     AppendedToURL: Symbol('AppendedToURL')
 };
-//# sourceMappingURL=FileManager.js.map

@@ -247,4 +247,3 @@ export class SearchScope {
 /** @typedef {!{regex: !RegExp, isNegative: boolean}} */
 // @ts-ignore typedef
 export let RegexQuery;
-//# sourceMappingURL=SearchConfig.js.map

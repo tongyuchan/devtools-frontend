@@ -288,4 +288,3 @@ export class CookieItemsView extends StorageItemsView {
         this.refreshItemsThrottled();
     }
 }
-//# sourceMappingURL=CookieItemsView.js.map

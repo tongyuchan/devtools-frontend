@@ -154,4 +154,3 @@ export class BinaryResourceViewFactory {
         return output;
     }
 }
-//# sourceMappingURL=BinaryResourceViewFactory.js.map

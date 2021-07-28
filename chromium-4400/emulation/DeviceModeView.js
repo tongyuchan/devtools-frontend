@@ -620,4 +620,3 @@ export class Ruler extends UI.Widget.VBox {
         this._applyCallback.call(null, size);
     }
 }
-//# sourceMappingURL=DeviceModeView.js.map

@@ -21,4 +21,3 @@ NodeMain.NodeChildTargetManager = NodeMainModule.NodeMain.NodeChildTargetManager
  * @constructor
  */
 NodeMain.NodeConnection = NodeMainModule.NodeMain.NodeConnection;
-//# sourceMappingURL=node_main-legacy.js.map

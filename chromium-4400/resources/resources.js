@@ -25,4 +25,3 @@ import * as ServiceWorkerUpdateCycleHelper from './ServiceWorkerUpdateCycleHelpe
 import * as StorageItemsView from './StorageItemsView.js';
 import * as TrustTokensView from './TrustTokensView.js';
 export { ApplicationCacheItemsView, ApplicationCacheModel, ApplicationPanelSidebar, AppManifestView, BackgroundServiceModel, BackgroundServiceView, ClearStorageView, CookieItemsView, DatabaseModel, DatabaseQueryView, DatabaseTableView, DOMStorageItemsView, DOMStorageModel, FrameDetailsView, IndexedDBModel, IndexedDBViews, OpenedWindowDetailsView, ResourcesPanel, ServiceWorkerCacheViews, ServiceWorkersView, ServiceWorkerUpdateCycleHelper, StorageItemsView, TrustTokensView, };
-//# sourceMappingURL=resources.js.map

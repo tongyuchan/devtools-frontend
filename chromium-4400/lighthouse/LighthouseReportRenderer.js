@@ -193,4 +193,3 @@ export class LighthouseReportUIFeatures extends self.ReportUIFeatures {
         this._resetUIState();
     }
 }
-//# sourceMappingURL=LighthouseReportRenderer.js.map

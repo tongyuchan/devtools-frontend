@@ -392,4 +392,3 @@ export let Suggestions;
     */
 // @ts-ignore typedef
 export let AutocompleteConfig;
-//# sourceMappingURL=SuggestBox.js.map

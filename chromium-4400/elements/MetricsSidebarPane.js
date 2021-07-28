@@ -488,4 +488,3 @@ export class MetricsSidebarPane extends ElementsSidebarPane {
         this._applyUserInput(element, userInput, previousContent, context, true);
     }
 }
-//# sourceMappingURL=MetricsSidebarPane.js.map

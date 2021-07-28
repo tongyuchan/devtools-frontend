@@ -35,4 +35,3 @@ UI.ViewManager.registerViewExtension({
         'customNetworkConditions',
     ],
 });
-//# sourceMappingURL=mobile_throttling-meta.js.map

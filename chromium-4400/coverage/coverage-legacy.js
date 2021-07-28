@@ -48,4 +48,3 @@ Coverage.CoverageView.LineDecorator = CoverageModule.CoverageView.LineDecorator;
  * @constructor
  */
 Coverage.CoverageView.ActionDelegate = CoverageModule.CoverageView.ActionDelegate;
-//# sourceMappingURL=coverage-legacy.js.map

@@ -616,4 +616,3 @@ export let _TextLayer;
 /** @typedef {!{fillStyle: (string|undefined), lineWidth: (number|undefined), borderColor: (string|undefined)}} */
 // @ts-ignore typedef
 export let _LayerStyle;
-//# sourceMappingURL=NetworkWaterfallColumn.js.map

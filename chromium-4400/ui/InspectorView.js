@@ -482,4 +482,3 @@ export class InspectorViewTabDelegate {
 export const Events = {
     DrawerChange: 'drawerchange',
 };
-//# sourceMappingURL=InspectorView.js.map

@@ -58,4 +58,3 @@ export class WebAuthnModel extends SDKModel {
     }
 }
 SDKModel.register(WebAuthnModel, Capability.WebAuthn, false);
-//# sourceMappingURL=WebAuthnModel.js.map

@@ -73,4 +73,3 @@ Console.ConsoleViewport = ConsoleModule.ConsoleViewport.ConsoleViewport;
  * @interface
  */
 Console.ConsoleViewportElement = ConsoleModule.ConsoleViewport.ConsoleViewportElement;
-//# sourceMappingURL=console-legacy.js.map

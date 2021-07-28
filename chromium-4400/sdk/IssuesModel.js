@@ -180,4 +180,3 @@ export const Events = {
     IssueAdded: Symbol('IssueAdded'),
 };
 SDKModel.register(IssuesModel, Capability.Audits, true);
-//# sourceMappingURL=IssuesModel.js.map

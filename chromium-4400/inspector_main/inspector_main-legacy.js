@@ -33,4 +33,3 @@ InspectorMain.BackendSettingsSync = InspectorMainModule.InspectorMain.BackendSet
  * @constructor
  */
 InspectorMain.RenderingOptionsView = InspectorMainModule.RenderingOptions.RenderingOptionsView;
-//# sourceMappingURL=inspector_main-legacy.js.map

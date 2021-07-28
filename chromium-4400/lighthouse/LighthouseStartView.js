@@ -171,4 +171,3 @@ export class StartView extends UI.Widget.Widget {
         }
     }
 }
-//# sourceMappingURL=LighthouseStartView.js.map

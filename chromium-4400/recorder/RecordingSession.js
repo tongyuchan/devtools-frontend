@@ -323,4 +323,3 @@ export class RecordingSession {
         eventHandler.targetDestroyed();
     }
 }
-//# sourceMappingURL=RecordingSession.js.map

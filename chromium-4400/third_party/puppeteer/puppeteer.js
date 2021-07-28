@@ -4,4 +4,3 @@
 import { Browser } from './package/lib/esm/puppeteer/common/Browser.js';
 import { Connection } from './package/lib/esm/puppeteer/common/Connection.js';
 export { Browser, Connection, };
-//# sourceMappingURL=puppeteer.js.map

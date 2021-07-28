@@ -154,4 +154,3 @@ export class LinearMemoryNavigator extends HTMLElement {
     }
 }
 customElements.define('devtools-linear-memory-inspector-navigator', LinearMemoryNavigator);
-//# sourceMappingURL=LinearMemoryNavigator.js.map

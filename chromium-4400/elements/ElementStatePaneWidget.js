@@ -130,4 +130,3 @@ export class ButtonProvider {
         return this._button;
     }
 }
-//# sourceMappingURL=ElementStatePaneWidget.js.map

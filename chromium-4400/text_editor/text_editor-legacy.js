@@ -28,4 +28,3 @@ TextEditor.CodeMirrorUtils.TokenizerFactory = TextEditorModule.CodeMirrorUtils.T
 /** @constructor */
 TextEditor.TextEditorAutocompleteController =
     TextEditorModule.TextEditorAutocompleteController.TextEditorAutocompleteController;
-//# sourceMappingURL=text_editor-legacy.js.map

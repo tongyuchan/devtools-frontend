@@ -1347,4 +1347,3 @@ export class StylePropertyTreeElement extends UI.TreeOutline.TreeElement {
  */
 // @ts-ignore Typedef
 export let Context;
-//# sourceMappingURL=StylePropertyTreeElement.js.map

@@ -69,4 +69,3 @@ export const floor = (value, precision = 0) => {
     const mult = Math.pow(10, precision);
     return Math.floor(value * mult) / mult;
 };
-//# sourceMappingURL=number-utilities.js.map

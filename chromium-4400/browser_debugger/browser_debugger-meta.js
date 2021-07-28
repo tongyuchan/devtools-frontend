@@ -137,4 +137,3 @@ UI.ViewManager.registerViewExtension({
         return Sources.SourcesNavigator.ContentScriptsNavigatorView.instance();
     },
 });
-//# sourceMappingURL=browser_debugger-meta.js.map

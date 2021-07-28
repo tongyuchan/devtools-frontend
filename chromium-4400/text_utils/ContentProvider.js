@@ -103,4 +103,3 @@ export const contentAsDataURL = function (content, mimeType, contentEncoded, cha
  */
 // @ts-ignore typedef
 export let DeferredContent;
-//# sourceMappingURL=ContentProvider.js.map

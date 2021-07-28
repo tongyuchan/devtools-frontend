@@ -203,4 +203,3 @@ export class CategorizedBreakpointsSidebarPane extends UI.Widget.VBox {
 /** @typedef {!{element: !UI.TreeOutline.TreeElement, checkbox: !HTMLInputElement}} */
 // @ts-ignore typedef
 export let Item;
-//# sourceMappingURL=CategorizedBreakpointsSidebarPane.js.map

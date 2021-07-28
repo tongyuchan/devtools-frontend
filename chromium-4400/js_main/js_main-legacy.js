@@ -9,4 +9,3 @@ JsMain = JsMain || {};
  * @constructor
  */
 JsMain.JsMain = JsMainModule.JsMain.JsMainImpl;
-//# sourceMappingURL=js_main-legacy.js.map

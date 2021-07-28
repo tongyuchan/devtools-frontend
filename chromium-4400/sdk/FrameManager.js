@@ -189,4 +189,3 @@ export const Events = {
     ResourceAdded: Symbol('ResourceAdded'),
     TopFrameNavigated: Symbol('TopFrameNavigated'),
 };
-//# sourceMappingURL=FrameManager.js.map

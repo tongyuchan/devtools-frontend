@@ -2394,4 +2394,3 @@ export let Group;
     */
 // @ts-ignore Typedef
 export let GroupStyle;
-//# sourceMappingURL=FlameChart.js.map

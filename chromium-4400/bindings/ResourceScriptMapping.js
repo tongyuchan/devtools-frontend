@@ -430,4 +430,3 @@ ResourceScriptFile.Events = {
     DidMergeToVM: Symbol('DidMergeToVM'),
     DidDivergeFromVM: Symbol('DidDivergeFromVM'),
 };
-//# sourceMappingURL=ResourceScriptMapping.js.map

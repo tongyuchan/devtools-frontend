@@ -1331,4 +1331,3 @@ export class TabbedPaneTabDelegate {
      */
     onContextMenu(tabId, contextMenu) { }
 }
-//# sourceMappingURL=TabbedPane.js.map

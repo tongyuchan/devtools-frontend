@@ -317,4 +317,3 @@ export class WebVitalsTimeboxLane extends WebVitalsLane {
         this.renderLaneLabel(this.label);
     }
 }
-//# sourceMappingURL=WebVitalsLane.js.map

@@ -238,4 +238,3 @@ export class CookieReference {
         return this._contextUrl;
     }
 }
-//# sourceMappingURL=Cookie.js.map

@@ -1259,4 +1259,3 @@ export class ActionDelegate {
 }
 /** @type {!WeakMap<!Extensions.ExtensionTraceProvider.ExtensionTraceProvider, !Common.Settings.Setting<boolean>>} */
 const traceProviderToSetting = new WeakMap();
-//# sourceMappingURL=TimelinePanel.js.map

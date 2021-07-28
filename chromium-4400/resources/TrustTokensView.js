@@ -102,4 +102,3 @@ export class TrustTokensView extends HTMLElement {
     }
 }
 customElements.define('devtools-trust-tokens-storage-view', TrustTokensView);
-//# sourceMappingURL=TrustTokensView.js.map

@@ -713,4 +713,3 @@ export class ActionDelegate {
         return false;
     }
 }
-//# sourceMappingURL=SourcesView.js.map

@@ -56,4 +56,3 @@ export const revealDestination = function (revealable) {
     }
     return extension.descriptor()['destination'];
 };
-//# sourceMappingURL=Revealer.js.map

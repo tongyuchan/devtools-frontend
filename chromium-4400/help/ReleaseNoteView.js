@@ -85,4 +85,3 @@ export class ReleaseNoteView extends UI.Widget.VBox {
         return hbox;
     }
 }
-//# sourceMappingURL=ReleaseNoteView.js.map

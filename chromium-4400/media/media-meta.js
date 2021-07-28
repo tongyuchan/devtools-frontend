@@ -41,4 +41,3 @@ UI.ViewManager.registerViewExtension({
         i18nString(UIStrings.video),
     ],
 });
-//# sourceMappingURL=media-meta.js.map

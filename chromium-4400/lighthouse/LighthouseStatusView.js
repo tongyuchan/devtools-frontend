@@ -424,4 +424,3 @@ const FastFacts = [
     i18nString(UIStrings.OfMobilePagesTakeNearlySeconds),
     i18nString(UIStrings.lighthouseOnlySimulatesMobile),
 ];
-//# sourceMappingURL=LighthouseStatusView.js.map

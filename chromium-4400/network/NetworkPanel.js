@@ -892,4 +892,3 @@ export class SearchNetworkView extends Search.SearchView.SearchView {
  */
 // @ts-ignore typedef
 export let FilterOptions;
-//# sourceMappingURL=NetworkPanel.js.map

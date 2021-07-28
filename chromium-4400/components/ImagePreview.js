@@ -145,4 +145,3 @@ export class ImagePreview {
         return i18nString(UIStrings.imageFromS, { PH1: imageSourceText });
     }
 }
-//# sourceMappingURL=ImagePreview.js.map

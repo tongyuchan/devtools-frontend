@@ -81,4 +81,3 @@ export const SidebarEvents = {
     ItemSelected: Symbol('ItemSelected'),
     Reset: Symbol('Reset')
 };
-//# sourceMappingURL=CSSOverviewSidebarPanel.js.map

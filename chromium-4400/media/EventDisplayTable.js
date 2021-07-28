@@ -131,4 +131,3 @@ export class PlayerEventsView extends UI.Widget.VBox {
         };
     }
 }
-//# sourceMappingURL=EventDisplayTable.js.map

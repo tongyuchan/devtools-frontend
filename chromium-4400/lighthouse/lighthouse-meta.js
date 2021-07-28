@@ -44,4 +44,3 @@ UI.ViewManager.registerViewExtension({
         () => i18nString(UIStrings.pwa),
     ],
 });
-//# sourceMappingURL=lighthouse-meta.js.map

@@ -12,4 +12,3 @@ export function injectCoreStyles(root) {
     ThemeSupport.ThemeSupport.instance().injectHighlightStyleSheets(root);
     ThemeSupport.ThemeSupport.instance().injectCustomStyleSheets(root);
 }
-//# sourceMappingURL=inject-core-styles.js.map

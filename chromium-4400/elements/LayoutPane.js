@@ -199,4 +199,3 @@ export class LayoutPane extends HTMLElement {
     }
 }
 customElements.define('devtools-layout-pane', LayoutPane);
-//# sourceMappingURL=LayoutPane.js.map

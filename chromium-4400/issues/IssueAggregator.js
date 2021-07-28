@@ -231,4 +231,3 @@ export const Events = {
     AggregatedIssueUpdated: Symbol('AggregatedIssueUpdated'),
     FullUpdateRequired: Symbol('FullUpdateRequired'),
 };
-//# sourceMappingURL=IssueAggregator.js.map

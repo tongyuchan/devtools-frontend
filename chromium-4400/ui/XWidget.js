@@ -167,4 +167,3 @@ export class XWidget extends XElement {
     }
 }
 self.customElements.define('x-widget', XWidget);
-//# sourceMappingURL=XWidget.js.map

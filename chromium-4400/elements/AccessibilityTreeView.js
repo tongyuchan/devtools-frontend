@@ -22,4 +22,3 @@ export class AccessibilityTreeView extends UI.Widget.VBox {
         };
     }
 }
-//# sourceMappingURL=AccessibilityTreeView.js.map

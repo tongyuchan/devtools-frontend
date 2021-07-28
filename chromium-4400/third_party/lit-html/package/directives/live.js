@@ -70,4 +70,3 @@ const checkStrings = (strings) => {
         throw new Error('`live` bindings can only contain a single expression');
     }
 };
-//# sourceMappingURL=live.js.map

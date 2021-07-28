@@ -664,4 +664,3 @@ export let InitiatorGraph;
 /** @typedef {!{type: !InitiatorType, url: string, lineNumber: number, columnNumber: number, scriptId: ?string, stack: ?Protocol.Runtime.StackTrace, initiatorRequest: ?NetworkRequest}} */
 // @ts-ignore typedef
 export let _InitiatorInfo;
-//# sourceMappingURL=NetworkLog.js.map

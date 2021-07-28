@@ -22,4 +22,3 @@ Input.InputTimeline.TracingClient = InputModule.InputTimeline.TracingClient;
  * @constructor
  */
 Input.InputTimeline.ActionDelegate = InputModule.InputTimeline.ActionDelegate;
-//# sourceMappingURL=input-legacy.js.map

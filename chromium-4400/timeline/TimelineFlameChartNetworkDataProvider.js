@@ -426,4 +426,3 @@ export class TimelineFlameChartNetworkDataProvider {
         return this._model.navStartTimes();
     }
 }
-//# sourceMappingURL=TimelineFlameChartNetworkDataProvider.js.map

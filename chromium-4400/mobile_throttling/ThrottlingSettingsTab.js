@@ -270,4 +270,3 @@ export function throughputText(throughput, plainText) {
     // for these two versions: one with decimal places and one without.
     return i18nString(UIStrings.fsmbs, { PH1: (throughputInKbps / 1000) | 0, PH2: delimiter });
 }
-//# sourceMappingURL=ThrottlingSettingsTab.js.map

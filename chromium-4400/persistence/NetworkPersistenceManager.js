@@ -496,4 +496,3 @@ const _reservedFileNames = new Set([
 export const Events = {
     ProjectChanged: Symbol('ProjectChanged')
 };
-//# sourceMappingURL=NetworkPersistenceManager.js.map

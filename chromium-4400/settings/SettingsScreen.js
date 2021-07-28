@@ -473,4 +473,3 @@ export class Revealer {
         }
     }
 }
-//# sourceMappingURL=SettingsScreen.js.map

@@ -193,4 +193,3 @@ export class AdvancedAppProvider {
         return AdvancedApp._instance();
     }
 }
-//# sourceMappingURL=AdvancedApp.js.map

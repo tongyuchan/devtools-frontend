@@ -168,4 +168,3 @@ SDKModel.register(TracingManager, Capability.Tracing, false);
  */
 // @ts-ignore typedef
 export let EventPayload;
-//# sourceMappingURL=TracingManager.js.map

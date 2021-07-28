@@ -318,4 +318,3 @@ export const RequestTimeRangeNameToColor = {
 export const _bandHeight = 3;
 /** @type {number} */
 export const _padding = 5;
-//# sourceMappingURL=NetworkOverview.js.map

@@ -67,4 +67,3 @@ export class CSSAngleSwatch extends HTMLElement {
 if (!customElements.get('devtools-css-angle-swatch')) {
     customElements.define('devtools-css-angle-swatch', CSSAngleSwatch);
 }
-//# sourceMappingURL=CSSAngleSwatch.js.map

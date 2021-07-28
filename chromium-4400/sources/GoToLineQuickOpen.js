@@ -103,4 +103,3 @@ export class GoToLineQuickOpen extends QuickOpen.FilteredListWidget.Provider {
         return sourcesView.currentSourceFrame();
     }
 }
-//# sourceMappingURL=GoToLineQuickOpen.js.map

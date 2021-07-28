@@ -306,4 +306,3 @@ export class CSSProperty {
         return this.setText(text, true, true);
     }
 }
-//# sourceMappingURL=CSSProperty.js.map

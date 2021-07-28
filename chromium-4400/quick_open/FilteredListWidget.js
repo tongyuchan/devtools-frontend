@@ -620,4 +620,3 @@ export class Provider {
     detach() {
     }
 }
-//# sourceMappingURL=FilteredListWidget.js.map

@@ -78,4 +78,3 @@ export class ExclusiveNameFilter extends TimelineModelFilter {
         return !this._excludeNames.has(event.name);
     }
 }
-//# sourceMappingURL=TimelineModelFilter.js.map

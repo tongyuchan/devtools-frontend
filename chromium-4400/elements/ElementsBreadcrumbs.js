@@ -337,4 +337,3 @@ export class ElementsBreadcrumbs extends HTMLElement {
 if (!customElements.get('devtools-elements-breadcrumbs')) {
     customElements.define('devtools-elements-breadcrumbs', ElementsBreadcrumbs);
 }
-//# sourceMappingURL=ElementsBreadcrumbs.js.map

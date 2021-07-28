@@ -9,4 +9,3 @@ export const UIStrings = {
     runSnippet: 'Run snippet',
 };
 i18n.i18n.registerUIStrings('snippets/ModuleUIStrings.ts', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

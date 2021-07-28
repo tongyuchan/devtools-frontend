@@ -46,4 +46,3 @@ export class AccessibilityTree extends HTMLElement {
 if (!customElements.get('devtools-accessibility-tree')) {
     customElements.define('devtools-accessibility-tree', AccessibilityTree);
 }
-//# sourceMappingURL=AccessibilityTree.js.map

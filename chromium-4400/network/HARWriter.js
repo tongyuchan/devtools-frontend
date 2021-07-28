@@ -126,4 +126,3 @@ export class HARWriter {
 export const _jsonIndent = 2;
 /** @const */
 export const _chunkSize = 100000;
-//# sourceMappingURL=HARWriter.js.map

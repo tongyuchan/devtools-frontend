@@ -443,4 +443,3 @@ export class SearchView extends UI.Widget.VBox {
         this._startSearch(searchConfig);
     }
 }
-//# sourceMappingURL=SearchView.js.map

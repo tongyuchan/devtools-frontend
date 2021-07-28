@@ -1246,4 +1246,3 @@ export let CallFunctionResult;
  */
 // @ts-ignore typedef
 export let GetPropertiesResult;
-//# sourceMappingURL=RemoteObject.js.map

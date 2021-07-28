@@ -203,4 +203,3 @@ export class SimpleResizerWidget extends ResizerWidget {
         }
     }
 }
-//# sourceMappingURL=ResizerWidget.js.map

@@ -33,4 +33,3 @@ UI.ViewManager.registerViewExtension({
         return Sources.SourcesNavigator.NetworkNavigatorView.instance();
     },
 });
-//# sourceMappingURL=node_debugger-meta.js.map

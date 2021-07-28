@@ -648,4 +648,3 @@ export let Orientation;
 /** @typedef {!{title: string, orientation: string, image: (string|undefined), insets: {left: number, right: number, top: number, bottom: number}}} */
 // @ts-ignore typedef
 export let JSONMode; // eslint-disable-line no-unused-vars
-//# sourceMappingURL=EmulatedDevices.js.map

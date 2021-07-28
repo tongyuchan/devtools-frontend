@@ -208,4 +208,3 @@ export class TimelinePaintImageView extends UI.Widget.Widget {
         this._maskElement.classList.toggle('hidden', !maskRectangle);
     }
 }
-//# sourceMappingURL=TimelinePaintProfilerView.js.map

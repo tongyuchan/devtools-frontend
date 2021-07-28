@@ -66,4 +66,3 @@ export const Events = {
     RecordingStateChanged: Symbol('RecordingStateChanged'),
     BackgroundServiceEventReceived: Symbol('BackgroundServiceEventReceived'),
 };
-//# sourceMappingURL=BackgroundServiceModel.js.map

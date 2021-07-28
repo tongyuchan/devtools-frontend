@@ -393,4 +393,3 @@ export const Type = {
     Inline: 'Inline',
     Attributes: 'Attributes'
 };
-//# sourceMappingURL=CSSStyleDeclaration.js.map

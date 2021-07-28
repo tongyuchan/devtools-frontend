@@ -317,4 +317,3 @@ export const _mimeTypeByExtension = new Map([
     // Font
     ['ttf', 'font/opentype'], ['otf', 'font/opentype'], ['ttc', 'font/opentype'], ['woff', 'application/font-woff']
 ]);
-//# sourceMappingURL=ResourceType.js.map

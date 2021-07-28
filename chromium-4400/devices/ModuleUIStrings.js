@@ -21,4 +21,3 @@ export const UIStrings = {
     mobile: 'mobile',
 };
 i18n.i18n.registerUIStrings('devices/ModuleUIStrings.js', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

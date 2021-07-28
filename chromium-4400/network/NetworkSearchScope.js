@@ -233,4 +233,3 @@ export class NetworkSearchResult {
         return /** @type {!TextUtils.ContentProvider.SearchMatch} */ (location.searchMatch).lineNumber + 1;
     }
 }
-//# sourceMappingURL=NetworkSearchScope.js.map

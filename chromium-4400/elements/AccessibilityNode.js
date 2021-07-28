@@ -175,4 +175,3 @@ export class AccessibilityNode extends HTMLElement {
 if (!customElements.get('devtools-accessibility-node')) {
     customElements.define('devtools-accessibility-node', AccessibilityNode);
 }
-//# sourceMappingURL=AccessibilityNode.js.map

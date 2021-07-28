@@ -1101,4 +1101,3 @@ export class IssuesPaneImpl extends UI.Widget.VBox {
         }
     }
 }
-//# sourceMappingURL=IssuesPane.js.map

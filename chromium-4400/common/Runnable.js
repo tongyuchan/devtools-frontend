@@ -12,4 +12,3 @@ export class Runnable {
         throw new Error('not implemented');
     }
 }
-//# sourceMappingURL=Runnable.js.map

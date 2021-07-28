@@ -60,4 +60,3 @@ import * as XLink from './XLink.js';
 import * as XWidget from './XWidget.js';
 import * as ZoomManager from './ZoomManager.js';
 export { ActionRegistration, ActionRegistry, ARIAUtils, Context, ContextFlavorListener, ContextMenu, Dialog, DockController, DropTarget, EmptyWidget, FilterBar, FilterSuggestionBuilder, ForwardedInputEventHandler, Fragment, Geometry, GlassPane, HistoryInput, Icon, Infobar, InplaceEditor, InspectorView, KeyboardShortcut, ListControl, ListModel, ListWidget, Panel, PopoverHelper, ProgressIndicator, RemoteDebuggingTerminatedScreen, ReportView, ResizerWidget, RootView, SearchableView, SegmentedButton, SettingsUI, ShortcutRegistry, SoftContextMenu, SoftDropDown, SplitWidget, SuggestBox, SyntaxHighlighter, TabbedPane, TargetCrashedScreen, TextEditor, TextPrompt, ThrottledWidget, Toolbar, Tooltip, TreeOutline, UIUtils, Utils, View, ViewManager, Widget, XElement, XLink, XWidget, ZoomManager };
-//# sourceMappingURL=ui.js.map

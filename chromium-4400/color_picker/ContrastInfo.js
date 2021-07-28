@@ -144,4 +144,3 @@ export const Events = {
 /** @typedef {{backgroundColors: ?Array<string>, computedFontSize: string, computedFontWeight: string}} */
 // @ts-ignore typedef
 export let ContrastInfoType;
-//# sourceMappingURL=ContrastInfo.js.map

@@ -425,4 +425,3 @@ export const naturalOrderComparator = (a, b) => {
         b = b.substring(chunkb.length);
     }
 };
-//# sourceMappingURL=string-utilities.js.map

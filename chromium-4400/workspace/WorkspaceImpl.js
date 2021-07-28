@@ -493,4 +493,3 @@ export const Events = {
     ProjectAdded: Symbol('ProjectAdded'),
     ProjectRemoved: Symbol('ProjectRemoved')
 };
-//# sourceMappingURL=WorkspaceImpl.js.map

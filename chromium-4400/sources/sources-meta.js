@@ -127,4 +127,3 @@ UI.ViewManager.registerViewExtension({
         return Sources.JavaScriptBreakpointsSidebarPane.JavaScriptBreakpointsSidebarPane.instance();
     },
 });
-//# sourceMappingURL=sources-meta.js.map

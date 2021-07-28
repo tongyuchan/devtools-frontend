@@ -958,4 +958,3 @@ SDKModel.register(CSSModel, Capability.DOM, true);
 /** @typedef {{backgroundColors: ?Array<string>, computedFontSize: string, computedFontWeight: string}} */
 // @ts-ignore typedef
 export let ContrastInfo;
-//# sourceMappingURL=CSSModel.js.map

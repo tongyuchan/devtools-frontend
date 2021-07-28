@@ -3,4 +3,3 @@
 // found in the LICENSE file.
 import * as i18n from './i18nImpl.js';
 export { i18n };
-//# sourceMappingURL=i18n.js.map

@@ -19,4 +19,3 @@ Layers.AgentLayer = LayersModule.LayerTreeModel.AgentLayer;
  * @constructor
  */
 Layers.LayersPanel = LayersModule.LayersPanel.LayersPanel;
-//# sourceMappingURL=layers-legacy.js.map

@@ -42,4 +42,3 @@ export const ls = Platform.UIString.ls;
 // @ts-ignore typedef
 export let settings;
 export { App, AppProvider, Base64, CharacterIdMap, Color, ColorUtils, Console, Debouncer, EventTarget, JavaScriptMetaData, Lazy, Linkifier, ObjectWrapper, ParsedURL, Progress, QueryParamHandler, ResourceType, Revealer, Runnable, SegmentedRange, Settings, SimpleHistoryManager, StringOutputStream, TextDictionary, Throttler, Trie, Worker, WasmDisassembly, };
-//# sourceMappingURL=common.js.map

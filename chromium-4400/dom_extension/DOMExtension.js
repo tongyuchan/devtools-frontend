@@ -727,4 +727,3 @@ Element.prototype.removeChildren = function () {
     }
     originalRemoveChildren.call(this);
 };
-//# sourceMappingURL=DOMExtension.js.map

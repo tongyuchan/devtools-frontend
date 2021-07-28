@@ -397,4 +397,3 @@ export class Client {
  */
 // @ts-ignore typedef
 export let RecordingOptions;
-//# sourceMappingURL=TimelineController.js.map

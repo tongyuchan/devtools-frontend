@@ -10,4 +10,3 @@ function toolboxLoaded() {
     app.toolboxLoaded(document);
 }
 Platform.runOnWindowLoad(toolboxLoaded);
-//# sourceMappingURL=toolbox_bootstrap.js.map

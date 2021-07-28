@@ -3,4 +3,3 @@
 // found in the LICENSE file.
 import * as WorkerMain from './WorkerMain.js';
 export { WorkerMain, };
-//# sourceMappingURL=worker_main.js.map

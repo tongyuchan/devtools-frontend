@@ -406,4 +406,3 @@ export const performSearchInContent = function (content, query, caseSensitive, i
 /** @typedef {{key:(string|undefined), text:(?string|undefined), regex:(!RegExp|undefined), negative:boolean}} */
 // @ts-ignore typedef
 export let ParsedFilter;
-//# sourceMappingURL=TextUtils.js.map

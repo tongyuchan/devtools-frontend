@@ -9,4 +9,3 @@ Webauthn = Webauthn || {};
  * @constructor
  */
 Webauthn.WebauthnPane = WebauthnModule.WebauthnPane.WebauthnPaneImpl;
-//# sourceMappingURL=webauthn-legacy.js.map

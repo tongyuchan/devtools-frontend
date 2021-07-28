@@ -174,4 +174,3 @@ export class TempFileBackingStorage {
         return this._file ? this._file.copyToOutputStream(outputStream) : Promise.resolve(null);
     }
 }
-//# sourceMappingURL=TempFile.js.map

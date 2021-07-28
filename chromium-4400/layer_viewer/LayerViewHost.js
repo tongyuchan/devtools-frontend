@@ -145,4 +145,3 @@ export class LayerViewHost {
         SDK.OverlayModel.OverlayModel.hideDOMNodeHighlight();
     }
 }
-//# sourceMappingURL=LayerViewHost.js.map

@@ -71,4 +71,3 @@ export class NodeStackTraceWidget extends UI.ThrottledWidget.ThrottledWidget {
  * @type {number}
  */
 export const MaxLengthForLinks = 40;
-//# sourceMappingURL=NodeStackTraceWidget.js.map

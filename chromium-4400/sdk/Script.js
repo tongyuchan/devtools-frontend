@@ -375,4 +375,3 @@ function frameIdForScript(script) {
     return resourceTreeModel.mainFrame.id;
 }
 export const sourceURLRegex = /^[\040\t]*\/\/[@#] sourceURL=\s*(\S*?)\s*$/;
-//# sourceMappingURL=Script.js.map

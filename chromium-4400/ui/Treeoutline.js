@@ -1393,4 +1393,3 @@ export class TreeElement {
         return event.pageX >= left && event.pageX <= left + arrowToggleWidth && this._expandable;
     }
 }
-//# sourceMappingURL=Treeoutline.js.map

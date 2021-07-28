@@ -57,4 +57,3 @@ export class ReportIssueActionDelegate {
         return true;
     }
 }
-//# sourceMappingURL=HelpImpl.js.map

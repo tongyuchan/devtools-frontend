@@ -337,4 +337,3 @@ export function findIcon(text, computedStyles, parentComputedStyles) {
  */
 // @ts-ignore typedef
 export let IconInfo;
-//# sourceMappingURL=CSSPropertyIconResolver.js.map

@@ -991,4 +991,3 @@ export class ExtensionStatus {
  * @typedef {{code: string, description: string, details: !Array.<*>}}
  */
 export let Record;
-//# sourceMappingURL=ExtensionServer.js.map

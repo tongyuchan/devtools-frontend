@@ -684,4 +684,3 @@ export class WritableProfileHeader extends ProfileHeader {
         }
     }
 }
-//# sourceMappingURL=ProfileView.js.map

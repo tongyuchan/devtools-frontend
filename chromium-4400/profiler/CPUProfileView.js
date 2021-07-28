@@ -513,4 +513,3 @@ CPUFlameChartDataProvider.ChartEntry = class {
         this.node = node;
     }
 };
-//# sourceMappingURL=CPUProfileView.js.map

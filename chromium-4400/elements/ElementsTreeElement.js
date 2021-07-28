@@ -1973,4 +1973,3 @@ function adornerComparator(adornerA, adornerB) {
  */
 // @ts-ignore typedef
 export let EditorHandles;
-//# sourceMappingURL=ElementsTreeElement.js.map

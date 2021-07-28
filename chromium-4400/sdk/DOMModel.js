@@ -1905,4 +1905,3 @@ SDKModel.register(DOMModel, Capability.DOM, true);
 /** @typedef {{name: string, value: string, _node: DOMNode}} */
 // @ts-ignore typedef
 export let Attribute;
-//# sourceMappingURL=DOMModel.js.map

@@ -31,4 +31,3 @@ export class Linkifier {
 /** @typedef {{tooltip: (string|undefined), preventKeyboardFocus: (boolean|undefined)}} */
 // @ts-ignore typedef.
 export let Options;
-//# sourceMappingURL=Linkifier.js.map

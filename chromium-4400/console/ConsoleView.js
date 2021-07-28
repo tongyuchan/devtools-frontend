@@ -1471,4 +1471,3 @@ const consoleMessageToViewMessage = new WeakMap();
  */
 // @ts-expect-error typedef
 export let RegexMatchRange;
-//# sourceMappingURL=ConsoleView.js.map

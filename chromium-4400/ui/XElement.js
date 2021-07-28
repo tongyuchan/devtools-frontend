@@ -149,4 +149,3 @@ self.customElements.define('x-cbox', XCBox);
 self.customElements.define('x-div', XDiv);
 self.customElements.define('x-span', XSpan);
 self.customElements.define('x-text', XText);
-//# sourceMappingURL=XElement.js.map

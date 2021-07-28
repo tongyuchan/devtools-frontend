@@ -1047,4 +1047,3 @@ export class Thread extends NamedObject {
         return extracted;
     }
 }
-//# sourceMappingURL=TracingModel.js.map

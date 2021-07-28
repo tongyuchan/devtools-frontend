@@ -198,4 +198,3 @@ export class ProfileLauncherView extends UI.Widget.VBox {
 export const Events = {
     ProfileTypeSelected: Symbol('ProfileTypeSelected')
 };
-//# sourceMappingURL=ProfileLauncherView.js.map

@@ -8,4 +8,3 @@ export const logManager = new LogManager.LogManager();
 // We need to force creation of the IssueManager early to make sure no issues are missed.
 IssuesManager.IssuesManager.instance();
 export { LogManager, IssuesManager, RelatedIssue };
-//# sourceMappingURL=browser_sdk.js.map

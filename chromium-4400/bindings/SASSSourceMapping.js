@@ -178,4 +178,3 @@ export class SASSSourceMapping {
         Common.EventTarget.EventTarget.removeEventListeners(this._eventListeners);
     }
 }
-//# sourceMappingURL=SASSSourceMapping.js.map

@@ -34,4 +34,3 @@ UI.ViewManager.registerViewExtension({
         () => ls `color vision deficiency`,
     ],
 });
-//# sourceMappingURL=inspector_main-meta.js.map

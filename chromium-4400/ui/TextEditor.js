@@ -135,4 +135,3 @@ export let Options;
   */
 // @ts-ignore typedef
 export let AutocompleteConfig;
-//# sourceMappingURL=TextEditor.js.map

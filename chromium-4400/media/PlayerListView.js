@@ -136,4 +136,3 @@ export class PlayerListView extends UI.Widget.VBox {
         }
     }
 }
-//# sourceMappingURL=PlayerListView.js.map

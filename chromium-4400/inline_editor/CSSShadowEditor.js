@@ -455,4 +455,3 @@ export class CSSShadowEditor extends UI.Widget.VBox {
 export const Events = {
     ShadowChanged: Symbol('ShadowChanged')
 };
-//# sourceMappingURL=CSSShadowEditor.js.map

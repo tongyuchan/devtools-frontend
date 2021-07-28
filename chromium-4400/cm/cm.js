@@ -13,4 +13,3 @@ import '../third_party/codemirror/package/addon/selection/mark-selection.js';
 import '../third_party/codemirror/package/addon/fold/foldcode.js';
 import '../third_party/codemirror/package/addon/fold/foldgutter.js';
 import '../third_party/codemirror/package/addon/fold/brace-fold.js';
-//# sourceMappingURL=cm.js.map

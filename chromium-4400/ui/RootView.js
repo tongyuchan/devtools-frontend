@@ -37,4 +37,3 @@ export class RootView extends VBox {
         super.doResize();
     }
 }
-//# sourceMappingURL=RootView.js.map

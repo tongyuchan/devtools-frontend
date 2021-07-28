@@ -98,4 +98,3 @@ export const classMap = directive((classInfo) => (part) => {
         classList.commit();
     }
 });
-//# sourceMappingURL=class-map.js.map

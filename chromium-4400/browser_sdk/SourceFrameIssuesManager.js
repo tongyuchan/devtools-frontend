@@ -103,4 +103,3 @@ export class IssueMessage {
         return this.level;
     }
 }
-//# sourceMappingURL=SourceFrameIssuesManager.js.map

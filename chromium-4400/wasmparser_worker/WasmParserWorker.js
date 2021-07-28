@@ -116,4 +116,3 @@ export function dissambleWASM(params, postMessage) {
         postMessage({ method: 'disassemble', error });
     }
 }
-//# sourceMappingURL=WasmParserWorker.js.map

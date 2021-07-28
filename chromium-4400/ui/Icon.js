@@ -272,4 +272,3 @@ export let Descriptor;
 /** @typedef {{cellWidth: number, cellHeight: number, padding: number}} */
 // @ts-ignore typedef
 export let SpriteSheet;
-//# sourceMappingURL=Icon.js.map

@@ -18,4 +18,3 @@ export function SDKNodeToAXNode(parent, sdkNode) {
     }
     return axNode;
 }
-//# sourceMappingURL=AccessibilityTreeUtils.js.map

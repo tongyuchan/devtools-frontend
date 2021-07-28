@@ -288,4 +288,3 @@ export class LinearMemoryViewer extends HTMLElement {
 LinearMemoryViewer.BYTE_GROUP_MARGIN = 8;
 LinearMemoryViewer.BYTE_GROUP_SIZE = 4;
 customElements.define('devtools-linear-memory-inspector-viewer', LinearMemoryViewer);
-//# sourceMappingURL=LinearMemoryViewer.js.map

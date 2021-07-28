@@ -333,4 +333,3 @@ export let CSSRule;
  */
 // @ts-ignore typedef
 export let TextRange;
-//# sourceMappingURL=FormatterWorkerPool.js.map

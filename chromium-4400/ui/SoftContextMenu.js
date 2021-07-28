@@ -505,4 +505,3 @@ export let SoftContextMenuDescriptor;
 // @ts-ignore typedef
 // eslint-disable-next-line no-unused-vars
 let ElementMenuDetails;
-//# sourceMappingURL=SoftContextMenu.js.map

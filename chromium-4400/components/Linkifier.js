@@ -1055,4 +1055,3 @@ export let _CreateLinkOptions;
  */
 // @ts-ignore typedef
 export let LinkHandler;
-//# sourceMappingURL=Linkifier.js.map

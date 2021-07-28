@@ -421,4 +421,3 @@ export let RecordingState;
  */
 // @ts-ignore typedef
 export let EventData;
-//# sourceMappingURL=BackgroundServiceView.js.map

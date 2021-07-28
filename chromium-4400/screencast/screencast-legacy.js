@@ -21,4 +21,3 @@ Screencast.ScreencastAppProvider = ScreencastModule.ScreencastApp.ScreencastAppP
  * @constructor
  */
 Screencast.ScreencastView = ScreencastModule.ScreencastView.ScreencastView;
-//# sourceMappingURL=screencast-legacy.js.map

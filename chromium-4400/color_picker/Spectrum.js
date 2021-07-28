@@ -1394,4 +1394,3 @@ export class Swatch {
 /** @typedef {{ title: string, colors: !Array<string>, colorNames: !Array<string>, mutable: boolean, matchUserFormat: (boolean|undefined) }} */
 // @ts-ignore typedef
 export let Palette;
-//# sourceMappingURL=Spectrum.js.map

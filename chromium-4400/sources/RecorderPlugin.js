@@ -33,4 +33,3 @@ export class RecorderPlugin extends Plugin {
         return [toggleRecording];
     }
 }
-//# sourceMappingURL=RecorderPlugin.js.map

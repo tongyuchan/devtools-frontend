@@ -31,4 +31,3 @@ export class EventListenerBreakpointsSidebarPane extends CategorizedBreakpointsS
         /** @type {!{eventName: string, targetName: string}} */ (details.auxData));
     }
 }
-//# sourceMappingURL=EventListenerBreakpointsSidebarPane.js.map

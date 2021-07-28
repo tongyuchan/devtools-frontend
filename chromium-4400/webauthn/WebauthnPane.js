@@ -653,4 +653,3 @@ export class WebauthnPaneImpl extends UI.Widget.VBox {
         this._updateActiveButtons();
     }
 }
-//# sourceMappingURL=WebauthnPane.js.map

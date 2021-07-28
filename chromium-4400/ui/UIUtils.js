@@ -1926,4 +1926,3 @@ export const deepElementFromEvent = ev => {
     const root = event.target && /** @type {!Element} */ (event.target).getComponentRoot();
     return root ? deepElementFromPoint(/** @type {(!Document|!ShadowRoot)} */ (root), event.pageX, event.pageY) : null;
 };
-//# sourceMappingURL=UIUtils.js.map

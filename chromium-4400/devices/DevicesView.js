@@ -33,4 +33,3 @@ self.Devices.DevicesView = class extends UI.Widget.VBox {
         this.setDefaultFocusedElement(documentationLink);
     }
 };
-//# sourceMappingURL=DevicesView.js.map

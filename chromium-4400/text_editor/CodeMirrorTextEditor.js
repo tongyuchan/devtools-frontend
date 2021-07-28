@@ -1890,4 +1890,3 @@ CodeMirror.inputStyles.devToolsAccessibleTextArea = DevToolsAccessibleTextArea;
  */
 // @ts-ignore typedef
 export let Decoration;
-//# sourceMappingURL=CodeMirrorTextEditor.js.map

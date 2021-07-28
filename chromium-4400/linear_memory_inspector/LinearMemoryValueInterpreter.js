@@ -157,4 +157,3 @@ export class LinearMemoryValueInterpreter extends HTMLElement {
     }
 }
 customElements.define('devtools-linear-memory-inspector-interpreter', LinearMemoryValueInterpreter);
-//# sourceMappingURL=LinearMemoryValueInterpreter.js.map

@@ -68,4 +68,3 @@ export const EdgeTypes = {
     NodeToNode: Symbol('NodeToNode'),
     NodeToParam: Symbol('NodeToParam'),
 };
-//# sourceMappingURL=EdgeView.js.map

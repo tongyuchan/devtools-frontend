@@ -188,4 +188,3 @@ export class GraphView extends Common.ObjectWrapper.ObjectWrapper {
 export const Events = {
     ShouldRedraw: Symbol('ShouldRedraw')
 };
-//# sourceMappingURL=GraphView.js.map

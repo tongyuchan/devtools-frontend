@@ -78,4 +78,3 @@ UI.ViewManager.registerViewExtension({
         return Settings.KeybindsSettingsTab.KeybindsSettingsTab.instance();
     },
 });
-//# sourceMappingURL=settings-meta.js.map

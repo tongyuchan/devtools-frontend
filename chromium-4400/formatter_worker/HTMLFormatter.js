@@ -509,4 +509,3 @@ const FormatterElement = class {
         this.closeTag = null;
     }
 };
-//# sourceMappingURL=HTMLFormatter.js.map

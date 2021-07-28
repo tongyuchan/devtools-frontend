@@ -421,4 +421,3 @@ export const maxSwatchProcessingLength = 300;
 export const SwatchBookmark = Symbol('swatch');
 /** @type {!WeakMap<!Element, !TextEditor.CodeMirrorTextEditor.TextEditorBookMark>} */
 const swatchToBookmark = new WeakMap();
-//# sourceMappingURL=CSSPlugin.js.map

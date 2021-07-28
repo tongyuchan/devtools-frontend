@@ -664,4 +664,3 @@ class ServiceWorkerContextNamer {
     }
 }
 SDKModel.register(ServiceWorkerManager, Capability.ServiceWorker, true);
-//# sourceMappingURL=ServiceWorkerManager.js.map

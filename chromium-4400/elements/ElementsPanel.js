@@ -1226,4 +1226,3 @@ export class PseudoStateMarkerDecorator {
         return { color: 'orange', title: Common.UIString.UIString('Element state: %s', ':' + pseudoState.join(', :')) };
     }
 }
-//# sourceMappingURL=ElementsPanel.js.map

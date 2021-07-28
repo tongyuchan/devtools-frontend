@@ -139,4 +139,3 @@ export class NetworkManageCustomHeadersView extends UI.Widget.VBox {
         }
     }
 }
-//# sourceMappingURL=NetworkManageCustomHeadersView.js.map

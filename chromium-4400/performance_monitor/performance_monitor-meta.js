@@ -60,4 +60,3 @@ UI.ViewManager.registerViewExtension({
         i18nString(UIStrings.metrics),
     ],
 });
-//# sourceMappingURL=performance_monitor-meta.js.map

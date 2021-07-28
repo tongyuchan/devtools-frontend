@@ -254,4 +254,3 @@ export const Presets = [
 /** @typedef {{presets: !Array.<{name: string, value: string}>, icon: !Element, presetIndex: number}} */
 // @ts-ignore typedef
 export let PresetCategory;
-//# sourceMappingURL=BezierEditor.js.map

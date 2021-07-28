@@ -14,4 +14,3 @@ export const codeBlockRenderer = (value) => {
     const truncatedValue = stringValue.length > MAX_LENGTH ? stringValue.substring(0, MAX_LENGTH - 3) + '...' : stringValue;
     return LitHtml.html `<code>${truncatedValue}</code>`;
 };
-//# sourceMappingURL=DataGridRenderers.js.map

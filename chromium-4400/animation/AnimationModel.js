@@ -484,4 +484,3 @@ export class ScreenshotCapture {
     }
 }
 SDK.SDKModel.SDKModel.register(AnimationModel, SDK.SDKModel.Capability.DOM, false);
-//# sourceMappingURL=AnimationModel.js.map

@@ -9,4 +9,3 @@ export const UIStrings = {
     webauthn: 'WebAuthn',
 };
 i18n.i18n.registerUIStrings('webauthn/ModuleUIStrings.ts', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

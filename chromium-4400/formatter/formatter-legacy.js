@@ -16,4 +16,3 @@ Formatter.ScriptFormatter = FormatterModule.ScriptFormatter.ScriptFormatter;
 Formatter.FormatterSourceMapping = FormatterModule.ScriptFormatter.FormatterSourceMapping;
 /** @constructor */
 Formatter.SourceFormatter = FormatterModule.SourceFormatter.SourceFormatter;
-//# sourceMappingURL=formatter-legacy.js.map

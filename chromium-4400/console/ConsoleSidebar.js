@@ -226,4 +226,3 @@ const _groupNoMessageTitleMap = new Map([
     [_groupName.ConsoleAPI, ls `No user messages`], [_groupName.All, ls `No messages`], [_groupName.Error, ls `No errors`],
     [_groupName.Warning, ls `No warnings`], [_groupName.Info, ls `No info`], [_groupName.Verbose, ls `No verbose`]
 ]);
-//# sourceMappingURL=ConsoleSidebar.js.map

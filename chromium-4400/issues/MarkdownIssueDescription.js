@@ -82,4 +82,3 @@ function findTitleFromMarkdownAst(markdownAst) {
     }
     return markdownAst[0].text;
 }
-//# sourceMappingURL=MarkdownIssueDescription.js.map

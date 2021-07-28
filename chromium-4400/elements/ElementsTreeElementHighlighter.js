@@ -91,4 +91,3 @@ export class ElementsTreeElementHighlighter {
         this._pendingHighlightNode = null;
     }
 }
-//# sourceMappingURL=ElementsTreeElementHighlighter.js.map

@@ -123,4 +123,3 @@ const issueDescriptions = new Map([
     [Protocol.Audits.ContentSecurityPolicyViolationType.KTrustedTypesSinkViolation, cspTrustedTypesSinkViolation],
     [Protocol.Audits.ContentSecurityPolicyViolationType.KTrustedTypesPolicyViolation, cspTrustedTypesPolicyViolation],
 ]);
-//# sourceMappingURL=ContentSecurityPolicyIssue.js.map

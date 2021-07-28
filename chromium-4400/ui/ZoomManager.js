@@ -66,4 +66,3 @@ export class ZoomManager extends Common.ObjectWrapper.ObjectWrapper {
 export const Events = {
     ZoomChanged: Symbol('ZoomChanged')
 };
-//# sourceMappingURL=ZoomManager.js.map

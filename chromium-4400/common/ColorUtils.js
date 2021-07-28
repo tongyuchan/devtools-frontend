@@ -235,4 +235,3 @@ export function getContrastThreshold(fontSize, fontWeight) {
     }
     return contrastThresholds.normalFont;
 }
-//# sourceMappingURL=ColorUtils.js.map

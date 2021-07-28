@@ -161,4 +161,3 @@ export class ContextMenuHeaderResetClickEvent extends Event {
         super('context-menu-header-reset-click');
     }
 }
-//# sourceMappingURL=DataGridUtils.js.map

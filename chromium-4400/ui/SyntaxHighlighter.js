@@ -108,4 +108,3 @@ export class SyntaxHighlighter {
         }
     }
 }
-//# sourceMappingURL=SyntaxHighlighter.js.map

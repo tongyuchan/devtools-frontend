@@ -23,4 +23,3 @@ export function createShadowRootWithCoreStyles(element, options = {
     shadowRoot.addEventListener('focus', focusChanged, true);
     return shadowRoot;
 }
-//# sourceMappingURL=create-shadow-root-with-core-styles.js.map

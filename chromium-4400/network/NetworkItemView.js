@@ -179,4 +179,3 @@ export const Tabs = {
     TrustTokens: 'trustTokens',
     WsFrames: 'webSocketFrames'
 };
-//# sourceMappingURL=NetworkItemView.js.map

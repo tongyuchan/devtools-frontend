@@ -1720,4 +1720,3 @@ export class ExpandableTextPropertyValue extends ObjectPropertyValue {
  */
 // @ts-ignore Typedef.
 export let TreeOutlineOptions;
-//# sourceMappingURL=ObjectPropertiesSection.js.map

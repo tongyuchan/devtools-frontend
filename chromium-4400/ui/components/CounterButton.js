@@ -76,4 +76,3 @@ export class CounterButton extends HTMLElement {
     }
 }
 customElements.define('counter-button', CounterButton);
-//# sourceMappingURL=CounterButton.js.map

@@ -85,4 +85,3 @@ export class PaintProfilerLogItem {
     }
 }
 SDKModel.register(PaintProfilerModel, Capability.DOM, false);
-//# sourceMappingURL=PaintProfiler.js.map

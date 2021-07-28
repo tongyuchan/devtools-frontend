@@ -85,4 +85,3 @@ export class TextDictionary {
         this._index.clear();
     }
 }
-//# sourceMappingURL=TextDictionary.js.map

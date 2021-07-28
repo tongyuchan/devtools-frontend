@@ -1160,4 +1160,3 @@ export const releaseNoteText = [
         link: 'https://developers.google.com/web/updates/2017/03/devtools-release-notes',
     },
 ];
-//# sourceMappingURL=ReleaseNoteText.js.map

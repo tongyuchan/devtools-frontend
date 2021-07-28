@@ -1387,4 +1387,3 @@ TestRunner.isScrolledToBottom = UI.UIUtils.isScrolledToBottom;
  * @typedef {!Object<string, string>}
  */
 TestRunner.CustomFormatters;
-//# sourceMappingURL=TestRunner.js.map

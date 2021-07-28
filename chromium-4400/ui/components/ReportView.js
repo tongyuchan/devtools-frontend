@@ -176,4 +176,3 @@ customElements.define('devtools-report-section-header', ReportSectionHeader);
 customElements.define('devtools-report-key', ReportKey);
 customElements.define('devtools-report-value', ReportValue);
 customElements.define('devtools-report-divider', ReportSectionDivider);
-//# sourceMappingURL=ReportView.js.map

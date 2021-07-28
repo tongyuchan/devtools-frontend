@@ -484,4 +484,3 @@ const elementToBreakpointMap = new WeakMap();
 /** @typedef {{breakpoint: !Bindings.BreakpointManager.Breakpoint, uiLocation: !Workspace.UISourceCode.UILocation}} */
 // @ts-ignore typedef
 export let BreakpointLocation;
-//# sourceMappingURL=JavaScriptBreakpointsSidebarPane.js.map

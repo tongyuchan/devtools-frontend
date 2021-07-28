@@ -232,4 +232,3 @@ class HeapProfilerDispatcher {
 // @ts-ignore typedef
 let NodeForConstruction; // eslint-disable-line no-unused-vars
 SDKModel.register(HeapProfilerModel, Capability.JS, false);
-//# sourceMappingURL=HeapProfilerModel.js.map

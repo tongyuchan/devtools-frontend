@@ -5,4 +5,3 @@
 import * as i18n from '../i18n/i18n.js';
 export const UIStrings = {};
 i18n.i18n.registerUIStrings('developer_resources/ModuleUIStrings.js', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

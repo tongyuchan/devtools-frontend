@@ -73,4 +73,3 @@ export function fireEvent(name, detail = {}, target = window) {
  */
 // @ts-ignore TS can't pick up that EventTargetEvent is of this type
 export let EventTargetEvent;
-//# sourceMappingURL=EventTarget.js.map

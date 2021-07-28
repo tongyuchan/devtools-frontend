@@ -92,4 +92,3 @@ export class PlatformFontsWidget extends UI.ThrottledWidget.ThrottledWidget {
         }
     }
 }
-//# sourceMappingURL=PlatformFontsWidget.js.map

@@ -120,4 +120,3 @@ export class JavaScriptCompilerPlugin extends Plugin {
     }
 }
 export const CompileDelay = 1000;
-//# sourceMappingURL=JavaScriptCompilerPlugin.js.map

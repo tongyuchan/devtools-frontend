@@ -299,4 +299,3 @@ export const SQL_BUILT_INS = [
     'SELECT ', 'FROM ', 'WHERE ', 'LIMIT ', 'DELETE FROM ', 'CREATE ', 'DROP ', 'TABLE ', 'INDEX ', 'UPDATE ',
     'INSERT INTO ', 'VALUES ('
 ];
-//# sourceMappingURL=DatabaseQueryView.js.map

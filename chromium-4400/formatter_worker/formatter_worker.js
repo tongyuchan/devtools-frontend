@@ -9,4 +9,3 @@ import * as HTMLFormatter from './HTMLFormatter.js';
 import * as JavaScriptFormatter from './JavaScriptFormatter.js';
 import * as JavaScriptOutline from './JavaScriptOutline.js';
 export { CSSFormatter, CSSRuleParser, FormattedContentBuilder, FormatterWorker, HTMLFormatter, JavaScriptFormatter, JavaScriptOutline, };
-//# sourceMappingURL=formatter_worker.js.map

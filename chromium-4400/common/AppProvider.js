@@ -12,4 +12,3 @@ export class AppProvider {
         throw new Error('not implemented');
     }
 }
-//# sourceMappingURL=AppProvider.js.map

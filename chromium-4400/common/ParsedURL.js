@@ -419,4 +419,3 @@ export class ParsedURL {
 }
 /** @type {?RegExp} */
 ParsedURL._urlRegexInstance = null;
-//# sourceMappingURL=ParsedURL.js.map

@@ -47,4 +47,3 @@ export class RecorderModel extends SDK.SDKModel.SDKModel {
     }
 }
 SDK.SDKModel.SDKModel.register(RecorderModel, SDK.SDKModel.Capability.None, false);
-//# sourceMappingURL=RecorderModel.js.map

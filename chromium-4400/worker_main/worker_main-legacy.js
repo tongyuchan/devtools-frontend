@@ -7,4 +7,3 @@ self.WorkerMain = self.WorkerMain || {};
 WorkerMain = WorkerMain || {};
 /** @constructor */
 WorkerMain.WorkerMain = WorkerMainModule.WorkerMain.WorkerMainImpl;
-//# sourceMappingURL=worker_main-legacy.js.map

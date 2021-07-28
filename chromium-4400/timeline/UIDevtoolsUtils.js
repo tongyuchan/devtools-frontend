@@ -126,4 +126,3 @@ export const RecordType = {
     NeedsBeginFrameChanged: 'NeedsBeginFrameChanged',
     ThreadControllerImplRunTask: 'ThreadControllerImpl::RunTask',
 };
-//# sourceMappingURL=UIDevtoolsUtils.js.map

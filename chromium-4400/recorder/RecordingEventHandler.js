@@ -221,4 +221,3 @@ export class RecordingEventHandler {
         // Added here to fullfill the ProtocolProxyApi.DebuggerDispatcher interface.
     }
 }
-//# sourceMappingURL=RecordingEventHandler.js.map

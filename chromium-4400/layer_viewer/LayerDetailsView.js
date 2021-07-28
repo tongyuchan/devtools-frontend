@@ -578,4 +578,3 @@ export const slowScrollRectNames = new Map([
     [SDK.LayerTreeBase.Layer.ScrollRectType.RepaintsOnScroll, i18nString(UIStrings.repaintsOnScroll)],
     [SDK.LayerTreeBase.Layer.ScrollRectType.MainThreadScrollingReason, i18nString(UIStrings.mainThreadScrollingReason)],
 ]);
-//# sourceMappingURL=LayerDetailsView.js.map

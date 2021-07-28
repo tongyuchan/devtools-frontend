@@ -72,4 +72,3 @@ export class NodeText extends HTMLElement {
 if (!customElements.get('devtools-node-text')) {
     customElements.define('devtools-node-text', NodeText);
 }
-//# sourceMappingURL=NodeText.js.map

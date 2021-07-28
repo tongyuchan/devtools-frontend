@@ -814,4 +814,3 @@ export class JavaScriptAutocompleteConfig {
 /** @typedef {{title:(string|undefined), items:Array<string>}} */
 // @ts-ignore typedef
 export let CompletionGroup;
-//# sourceMappingURL=JavaScriptAutocomplete.js.map

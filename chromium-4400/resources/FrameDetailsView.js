@@ -288,4 +288,3 @@ async function maybeCreateLinkToElementsPanel(opener) {
     });
     return linkElement;
 }
-//# sourceMappingURL=FrameDetailsView.js.map

@@ -366,4 +366,3 @@ let _lastRequestId = 0;
 /** @typedef {!{type: string, fileSystemName: string, rootURL: string, fileSystemPath: string}} */
 // @ts-ignore typedef
 export let FileSystem;
-//# sourceMappingURL=IsolatedFileSystemManager.js.map

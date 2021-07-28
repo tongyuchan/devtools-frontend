@@ -446,4 +446,3 @@ export class AppManifestView extends UI.Widget.VBox {
         return imageResourceErrors;
     }
 }
-//# sourceMappingURL=AppManifestView.js.map

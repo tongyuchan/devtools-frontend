@@ -29,4 +29,3 @@ Help.releaseNoteText = HelpModule.ReleaseNoteText.releaseNoteText;
  * @constructor
  */
 Help.ReleaseNoteView = HelpModule.ReleaseNoteView.ReleaseNoteView;
-//# sourceMappingURL=help-legacy.js.map

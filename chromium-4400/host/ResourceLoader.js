@@ -228,4 +228,3 @@ export const loadAsStream = function (url, headers, stream, callback) {
         /** @type {!LoadNetworkResourceResult} */ ({ statusCode: 404, messageOverride }));
     }
 };
-//# sourceMappingURL=ResourceLoader.js.map

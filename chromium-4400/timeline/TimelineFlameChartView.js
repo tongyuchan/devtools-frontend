@@ -595,4 +595,3 @@ export class TimelineFlameChartMarker {
 export const ColorBy = {
     URL: 'URL',
 };
-//# sourceMappingURL=TimelineFlameChartView.js.map

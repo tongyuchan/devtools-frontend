@@ -472,4 +472,3 @@ export class ToolbarButton extends UI.Toolbar.ToolbarItem {
 /** @typedef {!{preview: !Element, time: !Element, lastUsed: number, title: string}} */
 // @ts-ignore typedef
 export let PreviewData;
-//# sourceMappingURL=TimelineHistoryManager.js.map

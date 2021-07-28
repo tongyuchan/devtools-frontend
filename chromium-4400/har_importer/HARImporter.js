@@ -223,4 +223,3 @@ export class Importer {
         request.endTime = issueTime + Math.max(entryTotalDuration, lastEntry) / 1000;
     }
 }
-//# sourceMappingURL=HARImporter.js.map

@@ -107,4 +107,3 @@ export class CSPViolationsListView extends UI.Widget.VBox {
         return 'unknown';
     }
 }
-//# sourceMappingURL=CSPViolationsListView.js.map

@@ -197,4 +197,3 @@ export class LanguageExtensionEndpoint extends Bindings.DebuggerLanguagePlugins.
     dispose() {
     }
 }
-//# sourceMappingURL=LanguageExtensionEndpoint.js.map

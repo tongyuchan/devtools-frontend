@@ -308,4 +308,3 @@ TimelineIRModel._mergeThresholdsMs = {
     mouse: 40,
 };
 TimelineIRModel._eventIRPhase = Symbol('eventIRPhase');
-//# sourceMappingURL=TimelineIRModel.js.map

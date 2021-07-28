@@ -8,4 +8,3 @@ import { injectCoreStyles } from './inject-core-styles.js';
 import { measuredScrollbarWidth } from './measured-scrollbar-width.js';
 import { registerCustomElement } from './register-custom-element.js';
 export { appendStyle, createShadowRootWithCoreStyles, focusChanged, injectCoreStyles, measuredScrollbarWidth, registerCustomElement, };
-//# sourceMappingURL=utils.js.map

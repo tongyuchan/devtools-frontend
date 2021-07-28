@@ -66,4 +66,3 @@ export class TimelineLayersView extends UI.SplitWidget.SplitWidget {
         }
     }
 }
-//# sourceMappingURL=TimelineLayersView.js.map

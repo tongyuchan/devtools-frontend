@@ -12,4 +12,3 @@ import * as MarkdownLink from './MarkdownLink.js';
 import * as MarkdownLinksMap from './MarkdownLinksMap.js';
 import * as MarkdownView from './MarkdownView.js';
 export { CSPViolationsView, IssueAggregator, IssueRevealer, IssuesPane, MarkdownImage, MarkdownImagesMap, MarkdownIssueDescription, MarkdownLink, MarkdownLinksMap, MarkdownView, };
-//# sourceMappingURL=issues.js.map

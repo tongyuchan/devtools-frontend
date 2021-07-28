@@ -73,4 +73,3 @@ export function ls(strings, ...vararg) {
     }
     return UIString(substitutionString, ...vararg);
 }
-//# sourceMappingURL=UIString.js.map

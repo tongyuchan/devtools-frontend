@@ -84,4 +84,3 @@ function mkHeavyAdDescription() {
     message.append(resolutionParagraph);
     return message;
 }
-//# sourceMappingURL=HeavyAdIssue.js.map

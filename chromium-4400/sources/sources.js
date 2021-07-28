@@ -36,4 +36,3 @@ import * as ThreadsSidebarPane from './ThreadsSidebarPane.js';
 import * as UISourceCodeFrame from './UISourceCodeFrame.js';
 import * as WatchExpressionsSidebarPane from './WatchExpressionsSidebarPane.js';
 export { AddSourceMapURLDialog, BreakpointEditDialog, CallStackSidebarPane, CoveragePlugin, CSSPlugin, DebuggerPausedMessage, DebuggerPlugin, EditingLocationHistoryManager, FilePathScoreFunction, FilteredUISourceCodeListProvider, GoToLineQuickOpen, GutterDiffPlugin, InplaceFormatterEditorAction, JavaScriptBreakpointsSidebarPane, JavaScriptCompilerPlugin, NavigatorView, OpenFileQuickOpen, OutlineQuickOpen, Plugin, RecorderPlugin, ScopeChainSidebarPane, ScriptFormatterEditorAction, ScriptOriginPlugin, SearchSourcesView, SnippetsPlugin, SourceMapNamesResolver, SourcesNavigator, SourcesPanel, SourcesSearchScope, SourcesView, TabbedEditorContainer, ThreadsSidebarPane, UISourceCodeFrame, WatchExpressionsSidebarPane, };
-//# sourceMappingURL=sources.js.map

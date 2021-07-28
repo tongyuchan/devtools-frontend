@@ -41,4 +41,3 @@ export const UIStrings = {
     collectGarbage: 'Collect garbage',
 };
 i18n.i18n.registerUIStrings('perf_ui/ModuleUIStrings.js', UIStrings);
-//# sourceMappingURL=ModuleUIStrings.js.map

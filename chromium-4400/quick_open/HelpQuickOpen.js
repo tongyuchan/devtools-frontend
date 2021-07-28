@@ -75,4 +75,3 @@ export class HelpQuickOpen extends Provider {
         return false;
     }
 }
-//# sourceMappingURL=HelpQuickOpen.js.map

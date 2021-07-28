@@ -262,4 +262,3 @@ let popoverHelperInstance = null;
 /** @typedef {{box: !AnchorBox, show:(function(!GlassPane):!Promise<boolean>), hide:((function():void)|undefined)}} */
 // @ts-ignore typedef
 export let PopoverRequest;
-//# sourceMappingURL=PopoverHelper.js.map

@@ -168,4 +168,3 @@ SDKModel.register(CPUProfilerModel, Capability.JS, true);
 /** @typedef {!{id: string, scriptLocation: !Location, title: string, cpuProfile: (!Protocol.Profiler.Profile|undefined), cpuProfilerModel: !CPUProfilerModel}} */
 // @ts-ignore typedef
 export let EventData;
-//# sourceMappingURL=CPUProfilerModel.js.map

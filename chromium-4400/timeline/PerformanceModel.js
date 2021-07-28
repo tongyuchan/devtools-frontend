@@ -277,4 +277,3 @@ export const Events = {
 /** @typedef {!{left: number, right: number}} */
 // @ts-ignore typedef
 export let Window;
-//# sourceMappingURL=PerformanceModel.js.map

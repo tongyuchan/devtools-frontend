@@ -539,4 +539,3 @@ export class LineDecorator {
     }
 }
 LineDecorator._gutterType = 'CodeMirror-gutter-coverage';
-//# sourceMappingURL=CoverageView.js.map

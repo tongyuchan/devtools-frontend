@@ -160,4 +160,3 @@ export class AccessibilitySidebarView extends UI.ThrottledWidget.ThrottledWidget
         this.update();
     }
 }
-//# sourceMappingURL=AccessibilitySidebarView.js.map

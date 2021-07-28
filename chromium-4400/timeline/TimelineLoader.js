@@ -262,4 +262,3 @@ export const State = {
     SkippingTail: Symbol('SkippingTail'),
     LoadingCPUProfileFormat: Symbol('LoadingCPUProfileFormat')
 };
-//# sourceMappingURL=TimelineLoader.js.map

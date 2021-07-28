@@ -835,4 +835,3 @@ export class EditorContainerTabDelegate {
         this._editorContainer._onContextMenu(tabId, contextMenu);
     }
 }
-//# sourceMappingURL=TabbedEditorContainer.js.map

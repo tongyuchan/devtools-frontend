@@ -72,4 +72,3 @@ export class ImagePreviewPopover {
 }
 /** @type {!WeakMap<!Element, string>} */
 const elementToURLMap = new WeakMap();
-//# sourceMappingURL=ImagePreviewPopover.js.map

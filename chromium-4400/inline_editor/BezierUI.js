@@ -108,4 +108,3 @@ export class BezierUI {
     }
 }
 export const Height = 26;
-//# sourceMappingURL=BezierUI.js.map

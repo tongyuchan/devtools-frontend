@@ -124,4 +124,3 @@ export class InplaceFormatterEditorAction {
         this._sourcesView.showSourceLocation(uiSourceCode, start[0], start[1]);
     }
 }
-//# sourceMappingURL=InplaceFormatterEditorAction.js.map

@@ -11,4 +11,3 @@ export class QueryParamHandler {
     handleQueryParam(value) {
     }
 }
-//# sourceMappingURL=QueryParamHandler.js.map

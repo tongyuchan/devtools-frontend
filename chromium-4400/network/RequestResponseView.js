@@ -139,4 +139,3 @@ export class RequestResponseView extends UI.Widget.VBox {
 }
 /** @type {!WeakMap<!SDK.NetworkRequest.NetworkRequest, !UI.Widget.Widget>} */
 const requestToSourceView = new WeakMap();
-//# sourceMappingURL=RequestResponseView.js.map

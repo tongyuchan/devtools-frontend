@@ -33,4 +33,3 @@ TextUtils.BalancedJSONTokenizer = TextUtilsModule.TextUtils.BalancedJSONTokenize
 /** @interface */
 TextUtils.TokenizerFactory = TextUtilsModule.TextUtils.TokenizerFactory;
 TextUtils.isMinified = TextUtilsModule.TextUtils.isMinified;
-//# sourceMappingURL=text_utils-legacy.js.map

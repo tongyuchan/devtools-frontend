@@ -181,4 +181,3 @@ export class NetworkProject {
         return /** @type {!Array<!SDK.ResourceTreeModel.ResourceTreeFrame>} */ (frames.filter(frame => Boolean(frame)));
     }
 }
-//# sourceMappingURL=NetworkProject.js.map

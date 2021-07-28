@@ -38,4 +38,3 @@ UI.ViewManager.registerViewExtension({
     },
     experiment: Root.Runtime.ExperimentName.CSP_VIOLATIONS_VIEW,
 });
-//# sourceMappingURL=issues-meta.js.map

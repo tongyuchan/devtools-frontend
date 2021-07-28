@@ -5,4 +5,3 @@ import * as ComponentServerSetup from './component-server-setup.js';
 import * as GetStylesheet from './get-stylesheet.js';
 import * as SetCSSProperty from './set-css-property.js';
 export { ComponentServerSetup, GetStylesheet, SetCSSProperty, };
-//# sourceMappingURL=component_helpers.js.map

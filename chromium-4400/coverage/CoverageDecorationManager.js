@@ -161,4 +161,3 @@ export class CoverageDecorationManager {
         uiSourceCode.addLineDecoration(0, decoratorType, this);
     }
 }
-//# sourceMappingURL=CoverageDecorationManager.js.map

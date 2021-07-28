@@ -186,4 +186,3 @@ const servicePort = new WorkerServicePort(/** @type {!Worker} */ (worker));
 dispatchers.push(new ServiceDispatcher(servicePort));
 // @ts-ignore Side-effect.
 self.Service = Service;
-//# sourceMappingURL=ServiceDispatcher.js.map

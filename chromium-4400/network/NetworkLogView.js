@@ -1999,4 +1999,3 @@ export class GroupLookupInterface {
 /** @typedef {function(!SDK.NetworkRequest.NetworkRequest): boolean} */
 // @ts-ignore typedef
 export let Filter;
-//# sourceMappingURL=NetworkLogView.js.map

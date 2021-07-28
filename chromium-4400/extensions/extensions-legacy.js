@@ -19,4 +19,3 @@ Extensions.ExtensionStatus = ExtensionsModule.ExtensionServer.ExtensionStatus;
 Extensions.ExtensionTraceProvider = ExtensionsModule.ExtensionTraceProvider.ExtensionTraceProvider;
 /** @interface */
 Extensions.TracingSession = ExtensionsModule.ExtensionTraceProvider.TracingSession;
-//# sourceMappingURL=extensions-legacy.js.map

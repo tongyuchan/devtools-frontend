@@ -538,4 +538,3 @@ export class PendingFrame {
         this.triggerTime = triggerTime;
     }
 }
-//# sourceMappingURL=TimelineFrameModel.js.map

@@ -358,4 +358,3 @@ export class NetworkTransferDurationCalculator extends NetworkTimeCalculator {
         return request.duration;
     }
 }
-//# sourceMappingURL=NetworkTimeCalculator.js.map

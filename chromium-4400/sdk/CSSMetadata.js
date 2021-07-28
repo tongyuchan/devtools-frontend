@@ -1170,4 +1170,3 @@ const CommonKeywords = ['auto', 'none'];
  */
 // @ts-ignore typedef
 export let CSSPropertyDefinition;
-//# sourceMappingURL=CSSMetadata.js.map

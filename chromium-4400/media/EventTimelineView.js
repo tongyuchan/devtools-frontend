@@ -177,4 +177,3 @@ export class PlayerEventsTimeline extends TickingFlameChart {
         }
     }
 }
-//# sourceMappingURL=EventTimelineView.js.map

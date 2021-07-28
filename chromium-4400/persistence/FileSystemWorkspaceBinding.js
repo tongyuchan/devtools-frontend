@@ -534,4 +534,3 @@ const sourceCodeToMetadataMap = new WeakMap();
 /** @typedef {!{changed:!Platform.MapUtilities.Multimap<string, string>, added:!Platform.MapUtilities.Multimap<string, string>, removed:!Platform.MapUtilities.Multimap<string, string>}} */
 // @ts-ignore typedef
 export let FilesChangedData;
-//# sourceMappingURL=FileSystemWorkspaceBinding.js.map

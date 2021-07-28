@@ -70,4 +70,3 @@ export class InspectedPagePlaceholder extends UI.Widget.Widget {
 export const Events = {
     Update: Symbol('Update')
 };
-//# sourceMappingURL=InspectedPagePlaceholder.js.map
